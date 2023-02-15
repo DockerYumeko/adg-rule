@@ -37,6 +37,13 @@ application:
       - 'https://easylist-downloads.adblockplus.org/easylist.txt'
       - 'https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD/anti-ad-easylist.txt'
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt'
+      # 来自shadowrocket的地址
+      - 'https://easylist-downloads.adblockplus.org/easylistchina.txt'
+      # - 'https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt'
+      # 乘风 过滤规则
+      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt'
+      # Peter Lowe 广告和隐私跟踪域名
+      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
