@@ -1,4 +1,4 @@
-# Update time: 2023-03-22 08:24:44
+# Update time: 2023-03-22 16:00:56
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 moonsade.com
@@ -8495,6 +8495,7 @@
 0.0.0.0 gravitron.chron.com
 0.0.0.0 oascentral.rcrnews.com
 0.0.0.0 www.topreward.site
+0.0.0.0 c.atdmt.com
 0.0.0.0 store-downloads.com
 0.0.0.0 www.pawnauctions.net
 0.0.0.0 ads.wapx.cn
@@ -8754,6 +8755,7 @@
 0.0.0.0 adsupplyads.net
 0.0.0.0 ads.erotism.com
 0.0.0.0 bestblackhatforum.fr
+0.0.0.0 aidps.atdmt.com
 0.0.0.0 te.about.com
 0.0.0.0 darvocet.ourtablets.com
 0.0.0.0 banner.ringofon.com
@@ -9331,6 +9333,7 @@
 0.0.0.0 adstract.adk2x.com
 0.0.0.0 bufetgarrigosa.com
 0.0.0.0 www.atlantis-asia.com
+0.0.0.0 h1.msn.com
 0.0.0.0 adclient-af.lp.uol.com.br
 0.0.0.0 www.rightmedia.net
 0.0.0.0 as.webmd.com
@@ -11962,6 +11965,7 @@
 0.0.0.0 magic-flight.fr
 0.0.0.0 www.crazywinnings.com
 0.0.0.0 metrics.sephora.com
+0.0.0.0 cdn.atdmt.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 summer.ntua.edu.tw
 0.0.0.0 native.sharethrough.com
@@ -14040,6 +14044,7 @@
 0.0.0.0 www.shopperpromotions.com
 0.0.0.0 ehg-space.hitbox.com
 0.0.0.0 www.maaxmarket.com
+0.0.0.0 ec.atdmt.com
 0.0.0.0 sagent.io
 0.0.0.0 m.tidebuy.com
 0.0.0.0 www.xn--turkishirlines-1p8g.com
@@ -14373,6 +14378,7 @@
 0.0.0.0 ruegenfleisch.de
 0.0.0.0 moveyourmarket.com
 0.0.0.0 www.adobee.com
+0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 academy-internet.net
 0.0.0.0 sh2070.evanzo-server.de
 0.0.0.0 banki.onet.pl
@@ -14854,6 +14860,7 @@
 0.0.0.0 nytadvertising.nytimes.com
 0.0.0.0 sponsorships.net
 0.0.0.0 jgen1.cjt1.net
+0.0.0.0 flex.msn.com
 0.0.0.0 app1.letmacworkfaster.site
 0.0.0.0 media5.popmarker.com
 0.0.0.0 thinkgeek.112.2o7.net
@@ -15318,6 +15325,7 @@
 0.0.0.0 service001.adtech.fr
 0.0.0.0 www6.counter.bloke.com
 0.0.0.0 apx.moatads.com
+0.0.0.0 b.ads2.msads.net
 0.0.0.0 local-download.com
 0.0.0.0 counter16.bravenet.com
 0.0.0.0 out.popads.net
@@ -16065,6 +16073,7 @@
 0.0.0.0 www.trourted.pro
 0.0.0.0 benchmarkemail.fr
 0.0.0.0 finder.cox.net
+0.0.0.0 a.ads2.msads.net
 0.0.0.0 larusse.fr
 0.0.0.0 sochr.com
 0.0.0.0 metrics.toyota.com
@@ -16850,6 +16859,7 @@
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 campaign.budgethyve.com
 0.0.0.0 www.peterfishwick.free-online.co.uk
+0.0.0.0 b.ads1.msn.com
 0.0.0.0 hchrmain.112.2o7.net
 0.0.0.0 ads.adhostingsolutions.com
 0.0.0.0 filipelucio.com
@@ -17343,6 +17353,7 @@
 0.0.0.0 msn1.com
 0.0.0.0 sportat.oewabox.at
 0.0.0.0 bontril.ourtablets.com
+0.0.0.0 adnexus.net
 0.0.0.0 ejs.hitbox.com
 0.0.0.0 frenchbweb.fr
 0.0.0.0 trendsymbol.net
@@ -27256,7 +27267,6 @@
 0.0.0.0 hk2sch130020729.wns.windows.com
 0.0.0.0 bn3sch020010629.wns.windows.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
-0.0.0.0 c.atdmt.com
 0.0.0.0 bn3sch020010635.wns.windows.com
 0.0.0.0 hk2sch130020854.wns.windows.com
 0.0.0.0 ieonlinews.microsoft.com
@@ -27286,7 +27296,6 @@
 0.0.0.0 bn4sch101121908.wns.windows.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 api.edgeoffer.microsoft.com
-0.0.0.0 b.ads2.msads.net
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 cds20424.lcy.llnw.net
 0.0.0.0 settings.data.glbdns2.microsoft.com
@@ -27341,7 +27350,6 @@
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 cds468.lcy.llnw.net
 0.0.0.0 bn4sch101122312.wns.windows.com
-0.0.0.0 a.ads2.msads.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
 0.0.0.0 bn4sch101121618.wns.windows.com
 0.0.0.0 cds20404.lcy.llnw.net
@@ -27387,16 +27395,13 @@
 0.0.0.0 cds21244.lon.llnw.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 h1.msn.com
 0.0.0.0 par02p.wns.windows.com
 0.0.0.0 spyneteurope.microsoft.akadns.net
 0.0.0.0 cds20495.lcy.llnw.net
-0.0.0.0 b.ads1.msn.com
 0.0.0.0 hk2sch130021554.wns.windows.com
 0.0.0.0 msedge.net
 0.0.0.0 bn3sch020020322.wns.windows.com
 0.0.0.0 cds1.stn.llnw.net
-0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 cds1265.lon.llnw.net
 0.0.0.0 tele.trafficmanager.net
@@ -27462,7 +27467,6 @@
 0.0.0.0 cds20443.lcy.llnw.net
 0.0.0.0 hk2sch130020732.wns.windows.com
 0.0.0.0 cds299.lcy.llnw.net
-0.0.0.0 ec.atdmt.com
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cds818.lon.llnw.net
 0.0.0.0 bn3sch020010631.wns.windows.com
@@ -27488,18 +27492,14 @@
 0.0.0.0 presence.teams.live.com
 0.0.0.0 hk2sch130021260.wns.windows.com
 0.0.0.0 hk2sch130021829.wns.windows.com
-0.0.0.0 adnexus.net
 0.0.0.0 hk2sch130022049.wns.windows.com
-0.0.0.0 flex.msn.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 aidps.atdmt.com
 0.0.0.0 hk2sch130020924.wns.windows.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 cds21321.lon.llnw.net
 0.0.0.0 cds815.lon.llnw.net
 0.0.0.0 bn3sch020010560.wns.windows.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds20457.lcy.llnw.net
 0.0.0.0 cds1285.lon.llnw.net
 0.0.0.0 services.wes.df.telemetry.microsoft.com
