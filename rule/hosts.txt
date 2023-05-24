@@ -1,4 +1,4 @@
-# Update time: 2023-05-24 16:00:53
+# Update time: 2023-05-25 00:00:44
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
@@ -7527,6 +7527,7 @@
 0.0.0.0 www.click4click.com
 0.0.0.0 usatoday1.112.2o7.net
 0.0.0.0 fedup.tv
+0.0.0.0 vcdn.adnxs.com
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 vilagpolgarok.blogspot.hu
 0.0.0.0 stats.absol.co.za
@@ -9076,6 +9077,7 @@
 0.0.0.0 x3.extreme-dm.com
 0.0.0.0 georgewbushcom.112.2o7.net
 0.0.0.0 secure.addthis.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 ecard4all.com
 0.0.0.0 b.liquidustv.com
 0.0.0.0 media3.popmarker.com
@@ -13051,6 +13053,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 www.1man1jar.org
 0.0.0.0 adbg.hit.gemius.pl
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
 0.0.0.0 mt58.mtree.com
 0.0.0.0 gpaper214.112.2o7.net
@@ -14933,6 +14936,7 @@
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.shorthouse.com
 0.0.0.0 jsn.dt07.net
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 mini.videostrip.com
 0.0.0.0 protection.PApolice.com
 0.0.0.0 in.paycounter.com
@@ -15403,6 +15407,7 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 computerworldcom.112.2o7.net
 0.0.0.0 ads.almasdarnews.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 gmx.oewabox.at
 0.0.0.0 banners.ims.nl
@@ -17906,6 +17911,7 @@
 0.0.0.0 urlscanner.net
 0.0.0.0 oascentral.seacoastonline.com
 0.0.0.0 vpm.hu
+0.0.0.0 www.googleadservices.com
 0.0.0.0 ads.casinocity.com
 0.0.0.0 banniere.reussissonsensemble.fr
 0.0.0.0 techques.com
@@ -18946,7 +18952,6 @@
 0.0.0.0 m.guanren5.com
 0.0.0.0 s.youzhuanhua.com
 0.0.0.0 ad-stir.com
-0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vipwx.zhong-zhu.com
 0.0.0.0 cloud.codenow.cn
 0.0.0.0 wapscdn.wapx.cn
@@ -19806,7 +19811,6 @@
 0.0.0.0 e.ffanq.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 jscdn.99pps.com
-0.0.0.0 w.l.qq.com
 0.0.0.0 8dqc4u.viqiyi.admaster.com.cn
 0.0.0.0 m.themee.cn
 0.0.0.0 api.flurry.com
@@ -21937,7 +21941,6 @@
 0.0.0.0 cm.mediav.com
 0.0.0.0 u.umm6.cn
 0.0.0.0 hzs7.cnzz.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ad.pchome.com.tw
 0.0.0.0 t.d.yoyi.tv
 0.0.0.0 ad1.yangjinyou.com
@@ -22986,7 +22989,6 @@
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 bd4.idgdmgroup.com.cn
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 show-s.mediav.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 m.wikigifth.com
@@ -23278,7 +23280,6 @@
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 dns2.oadz.com
 0.0.0.0 is.snssdk.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 ip.ws.126.net
 0.0.0.0 msg.video.qiyi.com
 0.0.0.0 am-trc-f.taboola.com
@@ -24648,7 +24649,6 @@
 0.0.0.0 sorrowfulchemical.com
 0.0.0.0 www.qinchugudao.com
 0.0.0.0 v12.cnzz.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 growth-support.applovin.com
 0.0.0.0 www.92424.cn
 0.0.0.0 tz.1688988.com
