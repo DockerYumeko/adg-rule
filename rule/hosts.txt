@@ -1,4 +1,4 @@
-# Update time: 2023-06-12 00:00:49
+# Update time: 2023-06-12 08:32:22
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
@@ -6951,6 +6951,7 @@
 0.0.0.0 acs.56.com
 0.0.0.0 todaysdeals4u.com
 0.0.0.0 ads.mlive.com
+0.0.0.0 bloodsugarberry.com
 0.0.0.0 abrutel.fr
 0.0.0.0 newsmagic.net
 0.0.0.0 standstock.net
