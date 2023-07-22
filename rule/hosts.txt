@@ -1,4 +1,4 @@
-# Update time: 2023-07-22 00:00:54
+# Update time: 2023-07-22 08:30:04
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
