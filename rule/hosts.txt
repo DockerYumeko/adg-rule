@@ -1,4 +1,4 @@
-# Update time: 2023-07-27 00:01:03
+# Update time: 2023-07-27 08:26:38
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
@@ -1928,6 +1928,7 @@
 0.0.0.0 bopstermedia56.com
 0.0.0.0 te.adlandpro.com
 0.0.0.0 ads11.focalink.com
+0.0.0.0 sidare.homes
 0.0.0.0 ehg-vonage.hitbox.com
 0.0.0.0 t.senaldos.com
 0.0.0.0 atvplus.oewabox.at
@@ -4198,6 +4199,7 @@
 0.0.0.0 reseller.hitbox.com
 0.0.0.0 w.extreme-dm.com
 0.0.0.0 bannerus3.axelsfun.com
+0.0.0.0 proclickpacket.com
 0.0.0.0 track.msadcenter.wup.com
 0.0.0.0 ktrackdata.com
 0.0.0.0 www.fineclicks.com
@@ -11340,6 +11342,7 @@
 0.0.0.0 easytic.fr
 0.0.0.0 inpagepush.com
 0.0.0.0 adsoftware.com
+0.0.0.0 newagevz.homes
 0.0.0.0 czilladx.com
 0.0.0.0 cdn.freehonor.com
 0.0.0.0 ads.rubiconproject.com
