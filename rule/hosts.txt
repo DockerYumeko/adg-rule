@@ -1,4 +1,4 @@
-# Update time: 2023-09-30 00:00:57
+# Update time: 2023-09-30 08:23:10
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
@@ -11275,6 +11275,7 @@
 0.0.0.0 microsof.wemfbox.ch
 0.0.0.0 www.merlin.co.il
 0.0.0.0 zabavazaodrasle.com
+0.0.0.0 delivery-change-reschedule6128.com
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 trialvariable.net
 0.0.0.0 ads2.zeusclicks.com
