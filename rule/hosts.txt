@@ -1,4 +1,4 @@
-# Update time: 2023-11-17 08:25:39
+# Update time: 2023-11-17 16:00:57
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 seed.nimiq.jp
@@ -8387,7 +8387,6 @@
 127.0.0.1 gi.gepush.com
 127.0.0.1 botuu.adsame.com
 127.0.0.1 store.iqiyi.com
-127.0.0.1 c.msn.com
 127.0.0.1 ads.data.pplive.com
 127.0.0.1 ad.jamba.net
 127.0.0.1 adapi.shouji.360.cn
