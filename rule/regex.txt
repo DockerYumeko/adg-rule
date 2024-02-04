@@ -1,4 +1,4 @@
-# Update time: 2024-02-04 22:14:26
+# Update time: 2024-02-04 22:20:41
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||adx.
@@ -73,7 +73,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||acookie.*.gif?
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -83,6 +82,7 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
+||adservice.google.
 ||counter*.stat.ovh^
 ||host*.carl-ras.dk^
 ||ads.livetv*.me^
@@ -101,6 +101,7 @@ analytics-*.aasaam.com
 ||cnt.vivatube.
 ||rotabanner.
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
 ||clk.rtpdn*.com^
 ||flipflapflo.
@@ -159,6 +160,7 @@ analytics-*.aasaam.com
 ||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
+||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
@@ -187,6 +189,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||adx-*.dbankedge.cn^
 ||pixel-*.rubiconproject.com^
 ||cdn-adn-*.rayjump.com^
@@ -210,6 +213,7 @@ analytics-*.aasaam.com
 ||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
+||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -219,7 +223,9 @@ analytics-*.aasaam.com
 ||mediacontext.
 ||videoclick.
 ||batchlogging*-eu.truecaller.com^
+||stats-*.p2pnow.ru^
 ||admulti.
+||admicro*.vcmedia.vn^
 ||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
@@ -265,6 +271,7 @@ analytics-*.aasaam.com
 ||qpb*.sohu.com^
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
+||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
@@ -285,12 +292,14 @@ analytics-*.aasaam.com
 ||at*.doubanio.com^
 ||api*.batmobil.net^
 ||under-click.
+||collector-*.px-client.net^
 ||log-*.epicdn.me^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adcounter*.uptolike.ru^
 ||tupian888.*.bcebos.com^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
+||tracker.twenga.
 ||ac*.faxingchina.com^
 ||cdn*.swaxis.com^
 ||log*.aliyuncs.com^
@@ -304,6 +313,7 @@ analytics-*.aasaam.com
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -372,24 +382,23 @@ analytics-*.aasaam.com
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||v*.sitecounter.site^
-||bc.geocities.
+||acookie.*.gif?
 ||smetriccom^
-||collector-*.px-client.net^
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
-||stats-*.p2pnow.ru^
 ||stats*.credit-cooperatif.coop^
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||adservice.google.
-||tracker.twenga.
-||aff*.kolektiva.net^
+||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
+||iqkufk^
 ||geotargetly-api-*.com^
 ||smcom^
+||centent.streamp1ay.
+||onetrust.
+||142.91.159.
+||cas.*.criteo.com^
 ||sta.zone-telechargement.
-||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
+||cintent.streanplay.
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -456,7 +465,6 @@ analytics-*.aasaam.com
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
-||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -475,31 +483,6 @@ analytics-*.aasaam.com
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
-||analyzer*.fc2.com^
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
-||util-*.simply-hentai.com^
-||iqkufk^
-||centent.streamp1ay.
-||onetrust.
-||142.91.159.
-||cas.*.criteo.com^
-||cintent.streanplay.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
@@ -513,3 +496,20 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.ru^
 ||spryptvqguhpwt^
 Banner468x60
+<p><pre>
+<title>
+<html>
+<head>
+<body>
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
