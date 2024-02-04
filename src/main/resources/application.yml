@@ -45,9 +45,9 @@ application:
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-      - 'mylist.txt'
+#      - 'mylist.txt'
   output:
-    path: rules   #规则文件输出路径，相对路径默认从 项目目录开始
+    path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt:    #输出文件名
         - DOMAIN  #域名规则，仅完整域名
@@ -60,33 +60,9 @@ application:
         - HOSTS
       hosts.txt:
         - HOSTS
-#      regex.txt:
-#        - REGEX
-#      domain.txt:
-#        - DOMAIN
-#      modify.txt:
-#        - MODIFY
-    #本地规则
-    local: #本地规则请将文件移动到项目路径rule目录中
-      - 'mylist.txt'
-  output:
-    path: 
-      - rule   #规则文件输出路径，相对路径默认从 项目目录开始
-    files:
-      all.txt:    #输出文件名
-        - DOMAIN  #域名规则，仅完整域名
-        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
-        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
-        - HOSTS   #Hosts规则
-      adgh.txt:
-        - DOMAIN
+      regex.txt:
         - REGEX
-        - HOSTS
-      hosts.txt:
-        - HOSTS
-#      regex.txt:
-#        - REGEX
-#      domain.txt:
-#        - DOMAIN
-#      modify.txt:
-#        - MODIFY
+      domain.txt:
+        - DOMAIN
+      modify.txt:
+        - MODIFY
