@@ -9,10 +9,10 @@ logging:
     path: ./logs
 
 application:
-  config:
+#  config:
 #    expected_quantity: 2000000  #预期规则数量
-    fault_tolerance: 0.001 #容错率
-    warn_limit: 7 #警告阈值, 规则长度小于该值时会输出警告日志
+#    fault_tolerance: 0.001 #容错率
+#    warn_limit: 7 #警告阈值, 规则长度小于该值时会输出警告日志
 #    batch_size: 10000 #写入文件的批次大小
     
   rule:
