@@ -5,20 +5,20 @@
   </p>
 <!-- Badges -->
 <p>
-  <a href="https://github.com/fordes123/adg-rule">
-    <img src="https://img.shields.io/github/last-commit/fordes123/adg-rule?style=flat-square" alt="last update" />
+  <a href="https://github.com/LuoXingchen935/adg-rule">
+    <img src="https://img.shields.io/github/last-commit/LuoXingchen935/adg-rule?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/fordes123/adg-rule">
-    <img src="https://img.shields.io/github/forks/fordes123/adg-rule?style=flat-square" alt="forks" />
+  <a href="https://github.com/LuoXingchen935/adg-rule">
+    <img src="https://img.shields.io/github/forks/LuoXingchen935/adg-rule?style=flat-square" alt="forks" />
   </a>
-  <a href="https://github.com/fordes123/adg-rule">
-    <img src="https://img.shields.io/github/stars/fordes123/adg-rule?style=flat-square" alt="stars" />
+  <a href="https://github.com/LuoXingchen935/adg-rule">
+    <img src="https://img.shields.io/github/stars/LuoXingchen935/adg-rule?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/fordes123/adg-rule/issues/">
-    <img src="https://img.shields.io/github/issues/fordes123/adg-rule?style=flat-square" alt="open issues" />
+  <a href="https://github.com/LuoXingchen935/adg-rule/issues/">
+    <img src="https://img.shields.io/github/issues/LuoXingchen935/adg-rule?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/fordes123/adg-rule">
-    <img src="https://img.shields.io/github/license/fordes123/adg-rule?style=flat-square" alt="license" />
+  <a href="https://github.com/LuoXingchen935/adg-rule">
+    <img src="https://img.shields.io/github/license/LuoXingchen935/adg-rule?style=flat-square" alt="license" />
   </a>
 </p>
 
@@ -34,52 +34,29 @@
 </div>
 
 <p align="center">
+    <a href="https://github.com/fordes123/adg-rule">感谢原作者Fordes123制作的本软件，请对原作者、原项目Follow/Star/Fork（点此前往原作者）</a>
+
+<!---
+ <p align="center">
     <a href="/README_en.md">English </a>
     ·
     <a href="https://github.com/fordes123/adg-rule">简体中文</a>
 </p>
+-->
 <br />
 
 <h2 id="a">📔 项目说明</h2>
 
 本项目旨在按需求整合 `AdGuard` 规则。定时从上游订阅获取规则，去除重复和不受支持的规则并进行分类。
 
-#### 上游规则
-
-<details>
-<summary>点击查看</summary>
-<ul>
-    <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
-    <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
-    <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
-    <li><a href="https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
-    <li><a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext">Peter Lowe's List</a></li>
-    <li><a href="https://abp.oisd.nl/basic/">OISD Blocklist Basic</a></li>
-    <li><a href="https://adaway.org/hosts.txt">AdAway Default Blocklist</a></li>
-    <li><a href="https://github.com/crazy-max/WindowsSpyBlocker">WindowsSpyBlocker</a></li>
-    <li><a href="https://github.com/o0HalfLife0o/list">HalfLife（pc）</a></li>
-    <li><a href="https://github.com/banbendalao/ADgk">Adgk</a></li>
-    <li><a href="https://github.com/VeleSila/yhosts">yhosts</a></li>
-    <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars</a></li> 
-    <li><a href="https://gitlab.com/quidsup/notrack-blocklists">NoTrack Tracker Blocklist</a></li> 
-    <li><a href="https://gitlab.com/cats-team/adrules/">AdRules(AdGuard Full List)</a></li>
-    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard Base</a></li>
-</ul>
-</details>
-
-#### 本地规则
-
-- [mylist](#)
-> 主要是对上游规则的修正补充，根据日常使用体验，解除一些失误拦截
-
 <h2 id="b">🎯 规则订阅</h2>
 
 | 名称           | 说明                                                | Github订阅                                                                              | jsDelivr加速订阅                                                                        |
 |--------------|---------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| `all.txt`    | 去重的规则合集，包含以下所有规则，适用于 `AdGuard` 客户端                | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/all.txt)      | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule@main/rule/all.txt)    |
-| `adgh.txt`   | 针对 `AdGuardHome` 的规则，包含 `hosts.txt` 和`mylist.txt` | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/adgh.txt)   | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule@main/rule/adgh.txt)   |
-| `hosts.txt`  | `hosts` 规则，~~包含一些访问加速~~                           | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/hosts.txt)  | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule@main/rule/hosts.txt)  |
-| `mylist.txt` | 自用补充规则，人工更新                                       | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/mylist.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule@main/rule/mylist.txt) |
+| `all.txt`    | 去重的规则合集，包含以下所有规则，适用于 `AdGuard` 客户端                | [✈️点此查看](https://raw.githubusercontent.com/LuoXingchen935/adg-rule/mine-use/rule/all.txt)      | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/LuoXingchen935/adg-rule/rule/all.txt)   |
+| `adgh.txt`   | 针对 `AdGuardHome` 的规则，包含 `hosts.txt` 和`mylist.txt` | [✈️点此查看](https://raw.githubusercontent.com/LuoXingchen935/adg-rule/mine-use/rule/adgh.txt)   | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/LuoXingchen935/adg-rule/rule/adgh.txt)   |
+| `hosts.txt`  | `hosts` 规则，~~包含一些访问加速~~                           | [✈️点此查看](https://raw.githubusercontent.com/LuoXingchen935/adg-rule/mine-use/rule/hosts.txt)  | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/LuoXingchen935/adg-rule/rule/hosts.txt)  |
+| `mylist.txt` | 自用补充规则，人工更新                                       | [✈️点此查看](https://raw.githubusercontent.com/LuoXingchen935/adg-rule/mine-use/rule/mylist.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/LuoXingchen935/adg-rule/rule/mylist.txt) |
 
 <br/>
 <h2 id="c">🛠️ 快速开始</h2>
@@ -123,4 +100,4 @@ mvn spring-boot:run
 
 <h2 id="d">💬 问题反馈</h2>
 
-- 👉 [issues](https://github.com/fordes123/adg-rule/issues)
+- 👉 [issues](https://github.com/LuoXingchen935/adg-rule/issues)
