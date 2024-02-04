@@ -4,7 +4,7 @@ on:
     paths-ignore:
       - 'README.md'
       - 'README_en.md'
-    branches: [ main ]
+    branches: [ main-use ]
   schedule:
     - cron: 0 */8 * * *
   workflow_dispatch:
