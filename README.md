@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/fordes123/adg-rule">感谢原作者Fordes123制作的本软件，请对原作者、原项目Follow/Star/Fork（点此前往原作者）</a>
+    <a href="https://github.com/fordes123/ad-filters-subscriber">感谢原作者Fordes123制作的本软件，请对原作者、原项目Follow/Star/Fork（点此前往原作者）</a>
 
 <!---
  <p align="center">
