@@ -9,7 +9,7 @@ logging:
     path: ./logs
 
 application:
-  rule:
+#  rule:
     #远程规则
     remote:
       - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
