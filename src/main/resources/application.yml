@@ -12,20 +12,6 @@ application:
   rule:
     #远程规则
     remote:
-spring:
-  application:
-    name: adg-rule
-  profiles:
-    active: prod  #切换至 dev 即可输出调试信息
-
-logging:
-  file:
-    path: ./logs
-
-application:
-  rule:
-    #远程规则
-    remote:
       - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
       - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
       - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
