@@ -9,44 +9,105 @@ logging:
     path: ./logs
 
 application:
+  config:
+#    expected_quantity: 2000000  #预期规则数量
+    fault_tolerance: 0.001 #容错率
+    warn_limit: 7 #警告阈值, 规则长度小于该值时会输出警告日志
+#    batch_size: 10000 #写入文件的批次大小
+    
   rule:
     #远程规则
     remote:
-      - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
-      - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-      - 'https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
-      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
-      - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
-      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-      - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
-      - 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
-      - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
-      - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
-      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
-      - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
-      #添加的自用地址
-      - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt' #rasylist
-      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
-      - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
-      - 'https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt'
-      - 'https://www.malwaredomainlist.com/hostslist/hosts.txt'
-      - 'https://easylist-downloads.adblockplus.org/easylist.txt'
-      - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt'
-      # 来自shadowrocket的地址
-      # - 'https://easylist-downloads.adblockplus.org/easylistchina.txt'
-      - 'https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt'
-      # 乘风 过滤规则
-      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt'
-      # Peter Lowe 广告和隐私跟踪域名
-      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0'
+      - name: 'adblock-nocoin-list' 
+        path: 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' 
+      - name: 'Scam Blocklist' 
+        path: 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt' 
+      - name: 'Dan Pollock's List' 
+        path: 'https://someonewhocares.org/hosts/zero/hosts' 
+      - name: 'AdGuard Base' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
+      - name: 'AdGuard DNS filter' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt' 
+      - name: 'Adguard Filter DNS Annoyances' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt' 
+      - name: 'Adguard Filter DNS Annoyances Other' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt' 
+      - name: 'Adguard Filter DNS Annoyances MobileAPP' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt' 
+      - name: 'Adguard Filter DNS JP' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt' 
+      - name: 'Adguard Filter DNS Chinese' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' 
+      - name: 'Adguard Filter CHN Anti-AD' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_21.txt' 
+      - name: 'Adguard Filter CHN AdRule List' 
+        path: 'https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_29.txt' 
+      - name: 'Peter Lowe's List' 
+        path: 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' 
+      - name: 'OISD Blocklist Basic' 
+        path: 'https://abp.oisd.nl/basic/' 
+      - name: 'AdAway Default Blocklist' 
+        path: 'https://adaway.org/hosts.txt' 
+      - name: 'Windows Spy Blocker' 
+        path: 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt' 
+      - name: 'Windows Spy Blocker v6' 
+        path: 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy_v6.txt' 
+      - name: 'Windows Spy Blocker Extra' 
+        path: 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt' 
+      - name: 'Windows Spy Blocker Extra v6' 
+        path: 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra_v6.txt' 
+      - name: '合并自乘风规则' 
+        path: 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' 
+      - name: 'ADgk' 
+        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' 
+      - name: '去百度百家号' 
+        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' 
+      - name: 'yhosts' 
+        path: 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' 
+      - name: '大圣净化A' 
+        path: 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' 
+      - name: '大圣净化B' 
+        path: 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts' 
+      - name: 'Domains classified as tracking or advertising' 
+        path: 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' 
+      - name: 'AdRules AdGuard Full List' 
+        path: 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt'  
+#      - name: 'Easylist' 
+#        path: 'https://easylist-downloads.adblockplus.org/easyprivacy.txt' 
+#      - name: 'CJX's Annoyances' 
+#        path: 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt' 
+      - name: '中文区高命中广告列表 Anti-AD' 
+        path: 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' 
+      - name: 'TV Box' 
+        path: 'https://raw.githubusercontent.com/vokins/yhosts/master/data/tvbox.txt' 
+#      - name: '疑似不存在' 
+#        path: 'https://www.malwaredomainlist.com/hostslist/hosts.txt' 
+      - name: 'EasyList 不含成人网站' 
+#        path: 'https://easylist.to/easylist/easylist.txt' 
+        path: 'https://easylist-downloads.adblockplus.org/easylist_noadult.txt'
+      - name: 'AdGuard DNS Filter' 
+        path: 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' 
+      - name: 'Easy Privacy' 
+        path: 'https://easylist.to/easylist/easyprivacy.txt' 
+      - name: 'Easylist Fanboy' 
+        path: 'https://secure.fanboy.co.nz/fanboy-annoyance.txt' 
+      - name: '乘风规则' 
+        path: 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' 
+      - name: 'Peter Lowe 广告和隐私跟踪域名' 
+        path: 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0' 
+      - name: 'Easylist China' 
+        path: 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' 
+      
     #本地规则
-    local: #本地规则请将文件移动到项目路径rule目录中
+#    local: #本地规则请将文件移动到项目路径rule目录中
 #      - 'mylist.txt'
   output:
+    file_header: |  #输出文件头, 占位符${name}将被替换为文件名，如all.txt,  ${date} 将被替换为当前日期
+      [ADFS Adblock List]
+      ! Title: ${name}
+      ! Last Modified: ${date}
+      ! This File Build Homepage: https://github.com/LuoXingchen935/adg-rule
+      ! Application Create Homepage: https://github.com/fordes123/ad-filters-subscriber/
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt:    #输出文件名
