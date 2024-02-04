@@ -70,7 +70,8 @@ application:
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
   output:
-    path: ./rules   #规则文件输出路径，相对路径默认从 项目目录开始
+    path: 
+      - rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt:    #输出文件名
         - DOMAIN  #域名规则，仅完整域名
