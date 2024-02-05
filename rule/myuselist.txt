@@ -29,6 +29,7 @@
 
 #微软基础服务
 @@||events.data.microsoft.com^$important
+@@||graph.microsoft.com^important
 
 #Youtube服务 阻断可能导致无历史记录
 @@||s.youtube.com^$important
