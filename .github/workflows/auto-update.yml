@@ -17,7 +17,6 @@ env:
 
 jobs:
   Update_Filters:
-#    runs-on: ubuntu-latest
      runs-on: self-hosted
     permissions:
       contents: write
