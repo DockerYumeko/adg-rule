@@ -31,6 +31,7 @@
 @@||events.data.microsoft.com^$important
 @@||graph.microsoft.com^important
 @@||outlook.live.com^important
+@@||login.live.com^$important
 
 #Youtube服务 阻断可能导致无历史记录
 @@||s.youtube.com^$important
