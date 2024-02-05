@@ -17,7 +17,7 @@ env:
 
 jobs:
   Update_Filters:
-     runs-on: self-hosted
+    runs-on: self-hosted
     permissions:
       contents: write
       actions: write
