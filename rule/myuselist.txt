@@ -39,6 +39,8 @@
 #OP.GG 联盟基础服务
 @@||s-lol-web.op.gg^$important
 
+#百度贴吧图片
+@@||gsp0.baidu.com^$important
 !-------------黑名单--------------------
 
 ||log.uu.163.com^$important
