@@ -44,6 +44,8 @@
 @@||hm.baidu.com^$important
 @@||nsclick.baidu.com^$important
 @@||baidustatic.com^$important
+@@||bdstatic.com^$important
+||tieba-ares.cdn.bcebos.com^$important
 
 !-------------黑名单--------------------
 
