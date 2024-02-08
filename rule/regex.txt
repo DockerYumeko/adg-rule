@@ -1,4 +1,4 @@
-# Update time: 2024-02-08 08:56:56
+# Update time: 2024-02-08 16:16:03
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -309,6 +309,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -465,7 +466,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||widgets.*.webengage.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
@@ -480,6 +480,25 @@ rgmechanicsgames.com*VPN.exe
 ||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
+@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||analytics.ticketmaster.
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -567,29 +586,8 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||smetriccom^
-||stats.zone-annuaire.
-||matt.mercadolibre.
-||smcom^
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||analytics.ticketmaster.
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
