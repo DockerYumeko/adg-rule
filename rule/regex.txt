@@ -1,4 +1,4 @@
-# Update time: 2024-02-08 16:16:03
+# Update time: 2024-02-09 00:16:51
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -40,6 +40,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -309,7 +310,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -499,6 +499,11 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -586,8 +591,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
