@@ -1,4 +1,4 @@
-# Update time: 2024-02-09 16:15:22
+# Update time: 2024-02-09 21:58:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -114,6 +114,7 @@ analytics-*.aasaam.com
 ||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
+||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
@@ -176,6 +177,7 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
 ||admulti.
+||admicro*.vcmedia.vn^
 ||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
@@ -381,7 +383,6 @@ analytics-*.aasaam.com
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
-||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -401,7 +402,6 @@ analytics-*.aasaam.com
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
-||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adx.
@@ -415,6 +415,7 @@ MRelateFeedAd
 ||sell*.etlong.com^
 ||smartads.
 ||adshare.
+||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||adstats.
 ||toujing*.top^
@@ -477,7 +478,6 @@ advertisers.js|
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
-||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
@@ -526,6 +526,7 @@ advertisers.js|
 ||gads*s.com^
 ||collector.hamsterix.*^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -553,7 +554,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -566,22 +566,22 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||util-*.simply-hentai.com^
-||stats.zone-annuaire.
-||iqkufk^
-||matt.mercadolibre.
-||centent.streamp1ay.
-||onetrust.
-||142.91.159.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||cintent.streanplay.
-||analytics.ticketmaster.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||sta.zone-telechargement.
+||analytics.ticketmaster.
+||iqkufk^
+||centent.streamp1ay.
+||onetrust.
+||142.91.159.
+||acookie.*.gif?
+||cintent.streanplay.
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
