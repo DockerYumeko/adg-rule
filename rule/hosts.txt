@@ -1,4 +1,4 @@
-# Update time: 2024-02-09 21:58:01
+# Update time: 2024-02-10 00:15:58
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 booking.com-id15421.info
@@ -18343,7 +18343,6 @@
 0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 mo.atm.youku.com
 0.0.0.0 mr.da.netease.com
-0.0.0.0 webstat.ws.126.net
 0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 ekfe.tmmjgcp.cn
 0.0.0.0 app.flurry.com
@@ -25116,7 +25115,6 @@
 127.0.0.1 samba.adsame.com
 127.0.0.1 qappcenterv6.3g.qq.com
 127.0.0.1 a.appjiagu.com
-127.0.0.1 adsstatic.vivo.com.cn
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 show-s.mediav.com
 127.0.0.1 v6ii.gdt.qq.com
