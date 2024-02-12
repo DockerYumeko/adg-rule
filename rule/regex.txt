@@ -1,4 +1,4 @@
-# Update time: 2024-02-12 00:15:35
+# Update time: 2024-02-12 08:58:11
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -309,6 +309,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -403,7 +404,6 @@ analytics-*.aasaam.com
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
-||widgets.*.webengage.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
@@ -424,7 +424,6 @@ Banner468x60
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||analytics.ticketmaster.
-@@||tongji.*kuwo.cn^
 ||adx.
 ||adx-
 ||adsfs.
@@ -437,7 +436,6 @@ MRelateFeedAd
 ||adshare.
 ||player.letvcdn.com*.swf|
 ||adstats.
-||toujing*.top^
 ||popup.*.js*
 ||ggg.
 ||advert.
@@ -485,23 +483,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -521,6 +502,7 @@ advertisers.js|
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
+||toujing*.top^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -591,3 +573,21 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
+@@||tongji.*kuwo.cn^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
