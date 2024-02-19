@@ -1,4 +1,4 @@
-# Update time: 2024-02-19 16:17:06
+# Update time: 2024-02-20 00:17:43
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -309,7 +309,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -404,6 +403,17 @@ analytics-*.aasaam.com
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
+||widgets.*.webengage.com^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
 ||adx.
 ||adx-
 ||adsfs.
@@ -466,21 +476,20 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.extreme-down.
 ||util-*.simply-hentai.com^
+||stats.zone-annuaire.
 ||iqkufk^
-||centent.streamp1ay.
+||onetrust.
 ||142.91.159.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
 ||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
-@@||tongji.*kuwo.cn^
+||analytics.ticketmaster.
+||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -493,16 +502,7 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||stats.zone-annuaire.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
+@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
