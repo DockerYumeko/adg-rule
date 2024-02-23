@@ -1,4 +1,4 @@
-# Update time: 2024-02-23 00:16:53
+# Update time: 2024-02-23 08:56:45
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -404,31 +404,6 @@ analytics-*.aasaam.com
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||iqkufk^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||adx.
 ||adx-
 ||adsfs.
@@ -441,6 +416,7 @@ MRelateFeedAd
 ||adshare.
 ||player.letvcdn.com*.swf|
 ||adstats.
+||toujing*.top^
 ||popup.*.js*
 ||ggg.
 ||advert.
@@ -488,6 +464,17 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -507,7 +494,6 @@ advertisers.js|
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
-||toujing*.top^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -578,11 +564,20 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.extreme-down.
+||stats.zone-annuaire.
+||iqkufk^
+||df.infra.sz.shopee.
+||onetrust.
+||142.91.159.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||spryptvqguhpwt^
+||analytics.ticketmaster.
+||df.infra.shopee.
 @@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
@@ -596,3 +591,8 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
