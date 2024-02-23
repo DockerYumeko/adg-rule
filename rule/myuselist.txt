@@ -35,6 +35,26 @@
 @@||go.microsoft.com^$important
 @@||login.microsoftonline.com^$important
 @@||outlook.office.com^$important
+@@||answers.microsoft.com^$important
+@@||activationskey.org^$important
+@@||arc.msn.com^$important
+@@||officecdn.microsoft.com^$important
+@@||officeclient.microsoft.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||outlook.office365.com^$important
+@@||exo.nel.measure.office.net^$important
+@@||mrodevicemgr.officeapps.live.com^$important
+@@||ecs.office.com^$important
+||dig.bdurl.cn^$important
+@@||odc.officeapps.live.com^$important
+@@||edge.microsoft.com^$important
+@@||substrate.office.com^$important
+@@||logincdn.msauth.net^$important
+@@||assets.msn.com^$important
+@@||g.live.com^$important
+@@||windows.msn.com^$important
+@@||cn.bing.com^$important
+@@||config.edge.skype.com^$important
 
 #Youtube服务 阻断可能导致无历史记录
 @@||s.youtube.com^$important
