@@ -1,4 +1,4 @@
-# Update time: 2024-02-28 08:56:37
+# Update time: 2024-02-28 16:16:18
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -310,6 +310,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -321,6 +322,7 @@ MRelateFeedAd
 ||sell*.etlong.com^
 ||smartads.
 ||adshare.
+||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||adstats.
 ||toujing*.top^
@@ -372,6 +374,24 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
+||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||iqkufk^
+||ads*.dfiles.ru^
+||centent.streamp1ay.
+||142.91.159.
+||spryptvqguhpwt^
+||cintent.streanplay.
+Banner468x60
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -383,13 +403,11 @@ advertisers.js|
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
-||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
-||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -397,8 +415,6 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -421,7 +437,6 @@ advertisers.js|
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
-||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -459,17 +474,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -564,7 +568,6 @@ advertisers.js|
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
-@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -577,21 +580,18 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||widgets.*.webengage.com^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||iqkufk^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||onetrust.
+||ubt.tracking.shopee.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
+@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
