@@ -1,4 +1,4 @@
-# Update time: 2024-03-03 16:17:03
+# Update time: 2024-03-04 00:14:29
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -115,7 +115,6 @@ analytics-*.aasaam.com
 ||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
-||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
@@ -464,9 +463,18 @@ advertisers.js|
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
+||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+Banner468x60
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -527,7 +535,6 @@ advertisers.js|
 ||gads*s.com^
 ||collector.hamsterix.*^
 ||aj1*.xyz^
-||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -555,31 +562,12 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||iqkufk^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 @@||tongji.*kuwo.cn^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||icast.
 ||gg.
 ||union.
@@ -592,8 +580,20 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.extreme-down.
+||util-*.simply-hentai.com^
+||stats.zone-annuaire.
+||iqkufk^
+||df.infra.sz.shopee.
+||centent.streamp1ay.
+||onetrust.
+||142.91.159.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||spryptvqguhpwt^
+||analytics.ticketmaster.
+||cintent.streanplay.
+||df.infra.shopee.
