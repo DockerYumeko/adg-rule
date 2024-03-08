@@ -1,4 +1,4 @@
-# Update time: 2024-03-08 16:15:57
+# Update time: 2024-03-09 00:14:44
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -259,6 +259,7 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||marketplace-*.hyprmx.com^
 ||analytics.streamfab.
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -298,6 +299,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||adx-*.dbankedge.cn^
 ||pixel-*.rubiconproject.com^
 ||cdn-adn-*.rayjump.com^
@@ -391,6 +393,7 @@ analytics-*.aasaam.com
 ||under-click.
 ||collector-*.px-client.net^
 ||log-*.epicdn.me^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||tracker.twenga.
@@ -465,28 +468,19 @@ analytics-*.aasaam.com
 ||v*.sitecounter.site^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
 ||util-*.simply-hentai.com^
+||ads*.dfiles.ru^
 ||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 @@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
@@ -500,6 +494,24 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.extreme-down.
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||onetrust.
+||142.91.159.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||spryptvqguhpwt^
+||analytics.ticketmaster.
+||df.infra.shopee.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -517,7 +529,6 @@ Banner468x60
 ||d*.wanzhuang.com^
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
-||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -525,8 +536,6 @@ Banner468x60
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -535,7 +544,6 @@ Banner468x60
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
-||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -550,7 +558,6 @@ Banner468x60
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
-||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -571,10 +578,8 @@ Banner468x60
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
 ||ap*.jj20.com^
@@ -590,8 +595,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
