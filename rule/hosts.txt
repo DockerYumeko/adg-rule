@@ -1,4 +1,4 @@
-# Update time: 2024-03-11 08:58:29
+# Update time: 2024-03-11 16:17:12
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 booking.com-id15421.info
@@ -132,7 +132,6 @@
 0.0.0.0 store.yandex.avito.avito.sberbank.avito.com-id23901.info
 0.0.0.0 akjamv.shop
 0.0.0.0 www.pay.avito.b00king.com-id16313.info
-0.0.0.0 store.graciaszone.com
 0.0.0.0 store.stingcool-com.myshopify.com
 0.0.0.0 chiclife.co.uk
 0.0.0.0 jagkart.com
@@ -167,9 +166,11 @@
 0.0.0.0 pay.avito.sberbank.avito.com-id1800853.com
 0.0.0.0 sberbank.pay.avito.avito.avito.www.booking.com-id809702.com
 0.0.0.0 www.avito.sberbank.avito.avito.avito.avito.avito.com-id1800853.com
+0.0.0.0 www.yandex.avito.avito.pay.www.booking.com-id809712.com
 0.0.0.0 store.pay.pay.avito.booking.com-id23901.info
 0.0.0.0 sber.pay.avito.pay.com-id20341.info
 0.0.0.0 store.yandex.avito.pay.www.booking.com-id809702.com
+0.0.0.0 store.gearstastic.com
 0.0.0.0 store.sberbank.avito.avito.avito.com-id15421.info
 0.0.0.0 store.avito.sber.booking.com-id20341.info
 0.0.0.0 dxraceroutlet.com
@@ -210,6 +211,7 @@
 0.0.0.0 priority-ship.info
 0.0.0.0 www.source84.com
 0.0.0.0 uspsglobalexpress.com
+0.0.0.0 uange.shop
 0.0.0.0 milgenial.uy
 0.0.0.0 www.sberbank.pay.avito.avito.avito.avito.com-id90123.info
 0.0.0.0 store.sber.avito.avito.pay.avito.avito.avito.com-id809702.com
@@ -350,7 +352,6 @@
 0.0.0.0 stingcool-com.myshopify.com
 0.0.0.0 www.en407etr.com
 0.0.0.0 www.navi77.com
-0.0.0.0 freedom-5g.com
 0.0.0.0 townaptdesk.info
 0.0.0.0 pay.avito.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 www.nofotballshop.com
@@ -494,6 +495,7 @@
 0.0.0.0 www.sberbank.avito.www.avito.booking.com-id15421.info
 0.0.0.0 www.sberbank.avito.avito.avito.sber.booking.com-id809702.com
 0.0.0.0 pay.avito.avito.sber.com-id01251.info
+0.0.0.0 store.sberbank.avito.avito.www.booking.com-id809712.com
 0.0.0.0 store.pay.avito.avito.avito.www.avito.booking.com-id90123.info
 0.0.0.0 www.pay.pay.avito.avito.com-id809702.com
 0.0.0.0 store.buydubuy.com
@@ -513,6 +515,7 @@
 0.0.0.0 q3i5q2r6.stackpathcdn.com
 0.0.0.0 store.sberbank.avito.sberbank.avito.com-id1800853.com
 0.0.0.0 www.danarakyatol.com
+0.0.0.0 store.momchip.com
 0.0.0.0 sberbank.avito.pay.www.booking.com-id02349.info
 0.0.0.0 store.pay.pay.booking.com-id20341.info
 0.0.0.0 teenimo.com
@@ -539,7 +542,6 @@
 0.0.0.0 www.pay.sber.booking.com-id90123.info
 0.0.0.0 nip1.com
 0.0.0.0 store.pay.pay.avito.avito.avito.pay.com-id809702.com
-0.0.0.0 www.petsimulator.live
 0.0.0.0 www.yandex.pay.avito.avito.avito.pay.com-id809702.com
 0.0.0.0 store.avito.avito.avito.avito.pay.booking.com-id809702.com
 0.0.0.0 pay.pay.avito.avito.avito.avito.booking.com-id809702.com
@@ -789,6 +791,7 @@
 0.0.0.0 navi18.com
 0.0.0.0 www.yandex.avito.avito.www.booking.com-id20341.info
 0.0.0.0 sber.pay.pay.www.booking.com-id20341.info
+0.0.0.0 store.faze18.com
 0.0.0.0 www.pay.pay.booklng.com-id334112.com
 0.0.0.0 www.swellsup.com
 0.0.0.0 www.sberbank.avito.sber.booking.com-id809702.com
@@ -958,7 +961,6 @@
 0.0.0.0 www.pay.www.avito.www.booking.com-id15421.info
 0.0.0.0 pay.pay.avito.avito.avito.pay.com-id809702.com
 0.0.0.0 www.pay.avito.sber.www.www70.com-id23901.info
-0.0.0.0 store.yandex.avito.avito.sber.avito.com-id809712.com
 0.0.0.0 www.mythicalbattle.com
 0.0.0.0 store.avito.pay.avito.avito.avito.booking.com-id20341.info
 0.0.0.0 www.sberbank.avito.www.booking.com-id02349.info
@@ -1026,6 +1028,7 @@
 0.0.0.0 eudshop.shop
 0.0.0.0 store.navi40.com
 0.0.0.0 zeredress.com
+0.0.0.0 store.yandex.avito.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 store.avito.avito.avito.pay.com-id01251.info
 0.0.0.0 tslaget.live
 0.0.0.0 sberbank.avito.avito.www.booking.com-id809702.com
@@ -1094,7 +1097,6 @@
 0.0.0.0 avito.avito.avito.avito.avito.avito.booking.com-id90123.info
 0.0.0.0 store.pay.pay.avito.com-id90123.info
 0.0.0.0 krediteasypro.com
-0.0.0.0 store.fumekart.com
 0.0.0.0 store.pay.sber.www.com-id1800853.com
 0.0.0.0 www.balkeryswep.online
 0.0.0.0 gamingbuffs.com
@@ -1422,7 +1424,6 @@
 0.0.0.0 www.pay.avito.avito.avito.booking.com-id23901.info
 0.0.0.0 sportswearforfans.com
 0.0.0.0 www.mila-vica.de
-0.0.0.0 netcotto.com
 0.0.0.0 store.navi37.com
 0.0.0.0 www.pay.booking.com-id1800853.com
 0.0.0.0 5g-update.com
@@ -1652,7 +1653,6 @@
 0.0.0.0 store.yandex.sber.www.www.com-id1800853.com
 0.0.0.0 www.booking.com-id02349.info
 0.0.0.0 store.pay.booking.com-id16313.info
-0.0.0.0 www.uschse04.my03.com
 0.0.0.0 store.pay.avito.avito.avito.booking.com-id20341.info
 0.0.0.0 avito.avito.avito.pay.com-id01251.info
 0.0.0.0 yandex.avito.avito.b00king.com-id16313.info
@@ -1926,7 +1926,6 @@
 0.0.0.0 pay.avito.sber.avito.com-id02349.info
 0.0.0.0 www.yandex.avito.pay.com-id15421.info
 0.0.0.0 www.akebicycle.com
-0.0.0.0 store.yandex.pay.avito.avito.booking.com-id809712.com
 0.0.0.0 www.pay.avito.avito.avito.avito.avito.avito.com-id1800853.com
 0.0.0.0 pay.avito.avito.sber.com-id02349.info
 0.0.0.0 store.cluckergifts.ecwid.com
@@ -1995,6 +1994,7 @@
 0.0.0.0 xrp-give.pro
 0.0.0.0 store.yandex.pay.com-id129041.info
 0.0.0.0 www.hollisternorge.com
+0.0.0.0 store.uange.shop
 0.0.0.0 store.avito.pay.avito.avito.avito.sber.booking.com-id90123.info
 0.0.0.0 www.pay.avito.avito.com-id1800853.com
 0.0.0.0 www.sberbank.avito.avito.avito.avito.avito.booking.com-id1800853.com
@@ -2053,7 +2053,6 @@
 0.0.0.0 accfiverif.com
 0.0.0.0 www.avito.avito.avito.avito.avito.booking.com-id01251.info
 0.0.0.0 sberbank.avito.pay.avito.avito.avito.avito.com-id02349.info
-0.0.0.0 yandex.avito.avito.avito.avito.booking.com-id809712.com
 0.0.0.0 yandex.avito.avito.www.avito.www.booking.com-id90123.info
 0.0.0.0 faze76.com
 0.0.0.0 www.graciaszone.com
@@ -2106,10 +2105,10 @@
 0.0.0.0 store.turnnetwor.com
 0.0.0.0 www.tromselementbygg.no
 0.0.0.0 www.luccheseoutlet.online
-0.0.0.0 store.yandex.pay.com-id809712.com
 0.0.0.0 www.pay.avito.avito.sber.sberbank.booking.com-id90123.info
 0.0.0.0 yandex.sber.com-id20341.info
 0.0.0.0 www.nbdiscount.com
+0.0.0.0 www.uange.shop
 0.0.0.0 legarralazcoz.com
 0.0.0.0 sberbank.pay.sber.booking.com-id20341.info
 0.0.0.0 www.cofdeal.com
@@ -2140,7 +2139,6 @@
 0.0.0.0 store.yandex.avito.sber.booking.com-id20341.info
 0.0.0.0 store.dolystore.com
 0.0.0.0 www.networksfishing.com
-0.0.0.0 www.holmedalblikk.no
 0.0.0.0 www.bolejug.us
 0.0.0.0 yandex.pay.avito.avito.avito.avito.com-id809702.com
 0.0.0.0 www.yandex.pay.avito.avito.booking.com-id809702.com
@@ -2179,6 +2177,7 @@
 0.0.0.0 shoptcuhornedonline.com
 0.0.0.0 www.printkay.com
 0.0.0.0 www.sberbank.avito.sber.com-id02349.info
+0.0.0.0 sberbank.avito.avito.booking.com-id809712.com
 0.0.0.0 navi1.com
 0.0.0.0 sayhellorugs.com
 0.0.0.0 store.yandex.pay.avito.avito.avito.com-id90123.info
@@ -2668,6 +2667,7 @@
 0.0.0.0 store.sberbank.avito.www.booklng.com-id334112.com
 0.0.0.0 store.maebl.com
 0.0.0.0 www.oflike.com
+0.0.0.0 pay.avito.com-id809712.com
 0.0.0.0 www.navi36.ru
 0.0.0.0 www.cryptolnvest.com
 0.0.0.0 www.sberbank.sber.com-id02349.info
@@ -2891,7 +2891,6 @@
 0.0.0.0 yandex.avito.avito.avito.avito.avito.com-id90123.info
 0.0.0.0 store.yandex.avito.pay.com-id809702.com
 0.0.0.0 gowarehouse.net
-0.0.0.0 fumekart.com
 0.0.0.0 store.twitterr.com
 0.0.0.0 www.avito.sberbank.www.booklng.com-id334112.com
 0.0.0.0 openai.reisen
@@ -2969,6 +2968,7 @@
 0.0.0.0 www.sberbank.pay.avito.avito.avito.avito.com-id02349.info
 0.0.0.0 www.yandex.avito.sber.pay.com-id20341.info
 0.0.0.0 azitecs.com
+0.0.0.0 sberbank.avito.sber.booking.com-id809712.com
 0.0.0.0 store.pay.sberbank.www.booklng.com-id334112.com
 0.0.0.0 sberbank.avito.avito.www.booking.com-id01251.info
 0.0.0.0 www.au-bloomreach.com
@@ -3075,6 +3075,7 @@
 0.0.0.0 www.avito.sber.sberbank.booking.com-id90123.info
 0.0.0.0 stingcool.com
 0.0.0.0 store.pay.avito.avito.booking.com-id02349.info
+0.0.0.0 store.kigurumi-usa.com
 0.0.0.0 pay.avito.avito.avito.sberbank.avito.com-id1800853.com
 0.0.0.0 store.pay.com-id334112.com
 0.0.0.0 www.sberbank.pay.avito.avito.booking.com-id809702.com
@@ -3131,6 +3132,7 @@
 0.0.0.0 store.avito.pay.avito.avito.avito.avito.booking.com-id02349.info
 0.0.0.0 www.sberbank.avito.avito.sberbank.booking.com-id90123.info
 0.0.0.0 pay.avito.www.avito.www.booking.com-id90123.info
+0.0.0.0 www.pay.avito.pay.avito.avito.com-id809712.com
 0.0.0.0 store.yandex.avito.avito.avito.sber.pay.booking.com-id809702.com
 0.0.0.0 store.avito.com-id15421.info
 0.0.0.0 www.tikgeeker.com
@@ -3218,7 +3220,6 @@
 0.0.0.0 store.pay.avito.sber.www.www70.com-id23901.info
 0.0.0.0 kitchendecor.shop
 0.0.0.0 store.pay.avito.avito.avito.booking.com-id90123.info
-0.0.0.0 store.netcotto.com
 0.0.0.0 store.booklng.com-id334112.com
 0.0.0.0 www.tiranaaquapark-eg.com
 0.0.0.0 gig-os.com
@@ -3362,7 +3363,6 @@
 0.0.0.0 store.avito.pay.avito.avito.avito.avito.com-id02349.info
 0.0.0.0 www.booking.transaction-processing.one
 0.0.0.0 www.familyshark.com
-0.0.0.0 www.netcotto.com
 0.0.0.0 www.faze5.com
 0.0.0.0 www.navi3.com
 0.0.0.0 www.yandex.avito.sber.booking.com-id01251.info
@@ -3396,7 +3396,6 @@
 0.0.0.0 avito.pay.booking.com-id01251.info
 0.0.0.0 www.yandex.com-id20341.info
 0.0.0.0 store.dischargebackhanded.com
-0.0.0.0 pay.booking.com-id809712.com
 0.0.0.0 www.sber.avito.avito.avito.pay.www.booking.com-id02349.info
 0.0.0.0 www.byeuys.shop
 0.0.0.0 rosateeshop.com
@@ -3439,6 +3438,7 @@
 0.0.0.0 sberbank.avito.avito.avito.avito.www.www.com-id1800853.com
 0.0.0.0 store.yandex.pay.avito.avito.avito.booking.com-id02349.info
 0.0.0.0 www.ihuers.com
+0.0.0.0 gearstastic.com
 0.0.0.0 store.sberbank.avito.avito.booking.com-id02349.info
 0.0.0.0 yandex.sberbank.avito.avito.avito.avito.com-id20341.info
 0.0.0.0 emberio.com
@@ -3480,7 +3480,6 @@
 0.0.0.0 store.avito.sberbank.avito.www.www.com-id1800853.com
 0.0.0.0 faze2.com
 0.0.0.0 store.yandex.avito.booking.com-id23901.info
-0.0.0.0 yandex.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 store.shop-nanox.com
 0.0.0.0 cutty.app
 0.0.0.0 mcdowellsmaltesepuppies.com
@@ -3636,7 +3635,6 @@
 0.0.0.0 navi6.com
 0.0.0.0 www.navi53.com
 0.0.0.0 sberbank.pay.avito.avito.avito.avito.avito.com-id02349.info
-0.0.0.0 www.fumekart.com
 0.0.0.0 sber.www.avito.booking.com-id15421.info
 0.0.0.0 www.navi10.com
 0.0.0.0 store.pay.avito.sber.www.booking.com-id23901.info
@@ -3896,7 +3894,6 @@
 0.0.0.0 www.turnnetwor.com
 0.0.0.0 sberbank.sber.sber.www.booking.com-id15421.info
 0.0.0.0 www.felara.com.do
-0.0.0.0 store.sberbank.sber.booking.com-id809712.com
 0.0.0.0 casha.xyz
 0.0.0.0 fundcash.id
 0.0.0.0 www.niche3d.us
@@ -4061,7 +4058,6 @@
 0.0.0.0 store.avito.avito.avito.avito.avito.booking.com-id01251.info
 0.0.0.0 sberbank.avito.avito.avito.avito.booking.com-id02349.info
 0.0.0.0 yandex.avito.avito.avito.booking.com-id01251.info
-0.0.0.0 store.tesla-openai.com
 0.0.0.0 www.yandex.avito.avito.sber.www.www42.com-id23901.info
 0.0.0.0 avito.avito.avito.avito.pay.com-id20341.info
 0.0.0.0 www.nldstore.com
@@ -4092,6 +4088,7 @@
 0.0.0.0 www.zarodress.com
 0.0.0.0 yandex.avito.avito.com-id90123.info
 0.0.0.0 www.kisserine.com
+0.0.0.0 www.avito.booking.com-id809712.com
 0.0.0.0 www.sberbank.avito.booking.com-id1800853.com
 0.0.0.0 luccheseoutlet.online
 0.0.0.0 store.sberbank.avito.pay.com-id01251.info
@@ -4241,7 +4238,6 @@
 0.0.0.0 www.sber.pay.avito.avito.avito.sber.booking.com-id809702.com
 0.0.0.0 store.avito.avito.avito.pay.com-id20341.info
 0.0.0.0 www.navi76.com
-0.0.0.0 www.navi42.ru
 0.0.0.0 www.yandex.sber.com-id02349.info
 0.0.0.0 www.pay.avito.avito.avito.avito.www.booking.com-id90123.info
 0.0.0.0 yandex.booking.com-id15421.info
@@ -4337,7 +4333,6 @@
 0.0.0.0 yandex.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 avito.avito.www.avito.booking.com-id15421.info
 0.0.0.0 store.avito.pay.avito.avito.pay.www.booking.com-id809702.com
-0.0.0.0 petsimulator.live
 0.0.0.0 pay.avito.sber.com-id01251.info
 0.0.0.0 pay.com-id334112.com
 0.0.0.0 store.avito.avito.avito.avito.sber.pay.com-id809702.com
@@ -4599,6 +4594,7 @@
 0.0.0.0 www.avito.booking.com-id16313.info
 0.0.0.0 store.volcomofficial.com
 0.0.0.0 com-id23901.info
+0.0.0.0 www.gearstastic.com
 0.0.0.0 store.sberbank.pay.avito.avito.avito.www.booking.com-id02349.info
 0.0.0.0 www.nosdaarte.com
 0.0.0.0 www.yandex.avito.sberbank.avito.booking.com-id23901.info
@@ -4659,7 +4655,6 @@
 0.0.0.0 www.navi22.com
 0.0.0.0 www.pay.avito.avito.avito.avito.www.booking.com-id02349.info
 0.0.0.0 www.faze6.com
-0.0.0.0 tesla-openai.com
 0.0.0.0 www.pay.avito.pay.www.booking.com-id02349.info
 0.0.0.0 sportsapparelmarket.com
 0.0.0.0 pay.avito.pay.www.booking.com-id15421.info
@@ -4709,6 +4704,7 @@
 0.0.0.0 www.sberbank.avito.avito.avito.www.booking.com-id23901.info
 0.0.0.0 sberbank.avito.pay.www.booking.com-id20341.info
 0.0.0.0 www.pay.avito.avito.avito.avito.com-id1800853.com
+0.0.0.0 dearrupiah.com
 0.0.0.0 www.yandex.pay.avito.avito.avito.booking.com-id02349.info
 0.0.0.0 sber.avito.avito.avito.pay.www.booking.com-id809702.com
 0.0.0.0 www.blastparis.com
@@ -21012,7 +21008,6 @@
 127.0.0.1 bidfnt-asia.adsmoloco.com
 127.0.0.1 inkrevenue.gotrackier.com
 127.0.0.1 nrc.sd.duapps.com
-127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 ecs.mb.moatads.com
 127.0.0.1 pix.nbcuni.com
 127.0.0.1 a3448.casalemedia.com
@@ -25377,64 +25372,6 @@
 127.0.0.1 adx.apiok.net
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
-127.0.0.1 ad.api.3g.tudou.com
-127.0.0.1 guanggaoad.youku.com
-127.0.0.1 mi.atm.youku.com
-127.0.0.1 sdk.api.gamex.mobile.youku.com
-127.0.0.1 miaozhen.atm.youku.com
-127.0.0.1 wan.youku.com
-127.0.0.1 reply.lomark.cn
-127.0.0.1 l.fancyapi.com
-127.0.0.1 rm.lomark.cn
-127.0.0.1 msg.m.letv.com
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 b.smartvideo.youku.com
-127.0.0.1 msg2.video.ptqy.gitv.tv
-127.0.0.1 ld.kuaigames.com
-127.0.0.1 mcgi.play.cp81.ott.cibntv.net
-127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
-127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
-127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 dev.dc.letv.com
-127.0.0.1 mp.atm.youku.com
-127.0.0.1 api.danmu.tv.sohu.com
-127.0.0.1 t-l.play.cp81.ott.cibntv.net
-127.0.0.1 g.x.cn.majorserving.com
-127.0.0.1 store.xl.api.3g.youku.com
-127.0.0.1 m.yes.youku.com
-127.0.0.1 static8.pmadx.com
-127.0.0.1 dp3.play.cp81.ott.cibntv.net
-127.0.0.1 mb.atm.youku.com
-127.0.0.1 urchin.lstat.youku.com
-127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
-127.0.0.1 livew.l.qq.com
-127.0.0.1 livep.l.cp81.ott.cibntv.net
-127.0.0.1 cms.laifeng.com
-127.0.0.1 nl.rcd.ptqy.gitv.tv
-127.0.0.1 rd.kuaigames.com
-127.0.0.1 api.game.letvstore.com
-127.0.0.1 brance.play.cp81.ott.cibntv.net
-127.0.0.1 s.p.youku.com
-127.0.0.1 msg.c002.ottcn.com
-127.0.0.1 cdn.danmu.56.com
-127.0.0.1 ad.api.mobile.youku.com
-127.0.0.1 valo.atm.youku.com
-127.0.0.1 p-l.play.cp81.ott.cibntv.net
-127.0.0.1 hp.smiler-ad.com
-127.0.0.1 cm.miaozhen.atm.youku.com
-127.0.0.1 lstat.youku.com
-127.0.0.1 mo.atm.youku.com
-127.0.0.1 cm.atm.youku.com
-127.0.0.1 msg.video.ptqy.gitv.tv
-127.0.0.1 cb.lomark.cn
-127.0.0.1 t7z.cupid.iqiyi.com
-127.0.0.1 l.ftx.fancyapi.com
-127.0.0.1 c.yes.youku.com
-127.0.0.1 static.atm.youku.com
-127.0.0.1 store.tv.api.3g.youku.com
-127.0.0.1 w.fancyapi.com
-127.0.0.1 p-cn.acxiom-online.com
-127.0.0.1 mon.majorserving.com
 0.0.0.0 m1.mgogo.com
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 apac-ads.flurry.com
@@ -31775,6 +31712,64 @@
 0.0.0.0 md.tvzhe.com
 0.0.0.0 zzsdtzb.com
 0.0.0.0 c1.ifengimg.com
+127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 guanggaoad.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 sdk.api.gamex.mobile.youku.com
+127.0.0.1 miaozhen.atm.youku.com
+127.0.0.1 wan.youku.com
+127.0.0.1 reply.lomark.cn
+127.0.0.1 l.fancyapi.com
+127.0.0.1 rm.lomark.cn
+127.0.0.1 msg.m.letv.com
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 b.smartvideo.youku.com
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 ld.kuaigames.com
+127.0.0.1 mcgi.play.cp81.ott.cibntv.net
+127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
+127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 dev.dc.letv.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 api.danmu.tv.sohu.com
+127.0.0.1 t-l.play.cp81.ott.cibntv.net
+127.0.0.1 g.x.cn.majorserving.com
+127.0.0.1 store.xl.api.3g.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 static8.pmadx.com
+127.0.0.1 dp3.play.cp81.ott.cibntv.net
+127.0.0.1 mb.atm.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
+127.0.0.1 livew.l.qq.com
+127.0.0.1 livep.l.cp81.ott.cibntv.net
+127.0.0.1 cms.laifeng.com
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 rd.kuaigames.com
+127.0.0.1 api.game.letvstore.com
+127.0.0.1 brance.play.cp81.ott.cibntv.net
+127.0.0.1 s.p.youku.com
+127.0.0.1 msg.c002.ottcn.com
+127.0.0.1 cdn.danmu.56.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 p-l.play.cp81.ott.cibntv.net
+127.0.0.1 hp.smiler-ad.com
+127.0.0.1 cm.miaozhen.atm.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 mo.atm.youku.com
+127.0.0.1 cm.atm.youku.com
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 cb.lomark.cn
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 l.ftx.fancyapi.com
+127.0.0.1 c.yes.youku.com
+127.0.0.1 static.atm.youku.com
+127.0.0.1 store.tv.api.3g.youku.com
+127.0.0.1 w.fancyapi.com
+127.0.0.1 p-cn.acxiom-online.com
+127.0.0.1 mon.majorserving.com
 127.0.0.1 *.scdng.com
 127.0.0.1 *.rtbasia.com
 127.0.0.1 *.optimix.cn
