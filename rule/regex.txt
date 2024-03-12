@@ -1,4 +1,4 @@
-# Update time: 2024-03-12 16:16:03
+# Update time: 2024-03-13 00:17:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -124,7 +124,6 @@ analytics-*.aasaam.com
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||tracking*.euroads.fi^
-10.10.34.*
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
@@ -306,7 +305,6 @@ analytics-*.aasaam.com
 ||rotator.
 ||bms*.adjarabet.com^
 ||analytics*.prezly.com^
-||10.10.34.^
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
@@ -566,17 +564,6 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -590,6 +577,17 @@ Banner468x60
 ||saxs.sina.
 ||adsame.
 @@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||onetrust.
+||ubt.tracking.shopee.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
 <p><pre>
 <title>
 <html>
