@@ -1,4 +1,4 @@
-# Update time: 2024-03-15 16:16:41
+# Update time: 2024-03-16 00:16:47
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -40,7 +40,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -309,6 +308,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -465,18 +465,27 @@ advertisers.js|
 ||tracker*.qcloud.com^
 ||adwords*.*^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||spryptvqguhpwt^
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||142.91.159.
+||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
-@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -489,22 +498,14 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
 ||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
 ||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+@@||tongji.*kuwo.cn^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -564,7 +565,6 @@ Banner468x60
 ||gads*s.com^
 ||collector.hamsterix.*^
 ||aj1*.xyz^
-||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
