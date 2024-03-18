@@ -1,4 +1,4 @@
-# Update time: 2024-03-18 08:58:50
+# Update time: 2024-03-18 16:16:35
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -308,7 +308,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -371,6 +370,20 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
+||widgets.*.webengage.com^
+||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||142.91.159.
+||spryptvqguhpwt^
+||cintent.streanplay.
+Banner468x60
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -464,19 +477,7 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -489,22 +490,22 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
+||df.infra.sz.shopee.
+||ubt.tracking.shopee.
+||analytics.ticketmaster.
+||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -591,6 +592,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ubt.tracking.shopee.
-||df.infra.shopee.
-@@||tongji.*kuwo.cn^
