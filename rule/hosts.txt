@@ -1,4 +1,4 @@
-# Update time: 2024-03-21 00:17:41
+# Update time: 2024-03-21 08:58:59
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 booking.com-id15421.info
@@ -16567,7 +16567,6 @@
 0.0.0.0 e-2dj6wgkyknd5sko.stats.esomniture.com
 0.0.0.0 facebook-repto1040s2.ahlamountada.com
 0.0.0.0 trackvoluum.com
-0.0.0.0 bitcoin-upappl.com
 0.0.0.0 soarpower.com
 0.0.0.0 te.boston.com
 0.0.0.0 imgn.dt07.com
@@ -21453,7 +21452,6 @@
 127.0.0.1 bidfnt-asia.adsmoloco.com
 127.0.0.1 inkrevenue.gotrackier.com
 127.0.0.1 nrc.sd.duapps.com
-127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 ecs.mb.moatads.com
 127.0.0.1 pix.nbcuni.com
 127.0.0.1 a3448.casalemedia.com
