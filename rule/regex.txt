@@ -1,4 +1,4 @@
-# Update time: 2024-04-02 16:16:46
+# Update time: 2024-04-03 00:17:06
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -320,7 +320,6 @@ MRelateFeedAd
 ||sell*.etlong.com^
 ||smartads.
 ||adshare.
-||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||adstats.
 ||toujing*.top^
@@ -466,21 +465,14 @@ advertisers.js|
 ||tracker*.qcloud.com^
 ||adwords*.*^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
 ||spryptvqguhpwt^
-||cintent.streanplay.
+@@||cdn*.porn300.com^
 Banner468x60
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
@@ -492,11 +484,13 @@ Banner468x60
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
+||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
+||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -505,6 +499,8 @@ Banner468x60
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -527,6 +523,7 @@ Banner468x60
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
+||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -562,18 +559,21 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-@@||tongji.*kuwo.cn^
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.extreme-down.
+||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
-||matt.mercadolibre.
+||centent.streamp1ay.
 ||onetrust.
-||ubt.tracking.shopee.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
-||sta.extreme-down.
 ||analytics.ticketmaster.
+||cintent.streanplay.
 ||df.infra.shopee.
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
