@@ -1,4 +1,4 @@
-# Update time: 2024-04-09 00:19:35
+# Update time: 2024-04-09 08:59:10
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -40,7 +40,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -116,6 +115,7 @@ analytics-*.aasaam.com
 ||api-*.bidmachine.io^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
+||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
@@ -177,6 +177,7 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
 ||admulti.
+||admicro*.vcmedia.vn^
 ||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
@@ -310,6 +311,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -442,7 +444,6 @@ advertisers.js|
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
-||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -461,7 +462,6 @@ advertisers.js|
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
-||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
@@ -551,14 +551,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-Banner468x60
 ||icast.
 ||gg.
 ||union.
@@ -571,24 +563,32 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+||spryptvqguhpwt^
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
+||onetrust.
+||acookie.*.gif?
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
-||matt.mercadolibre.
-||ubt.tracking.shopee.
-||sta.extreme-down.
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||centent.streamp1ay.
-||onetrust.
-||142.91.159.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||spryptvqguhpwt^
-||analytics.ticketmaster.
-||cintent.streanplay.
-||df.infra.shopee.
