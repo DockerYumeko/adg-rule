@@ -1,4 +1,4 @@
-# Update time: 2024-04-12 16:17:31
+# Update time: 2024-04-13 00:16:05
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -481,6 +481,7 @@ advertisers.js|
 ||d*.wanzhuang.com^
 ||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
+||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -489,6 +490,8 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -511,6 +514,7 @@ advertisers.js|
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
+||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -520,6 +524,7 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -546,18 +551,19 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+||spryptvqguhpwt^
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -570,24 +576,19 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-@@||tongji.*kuwo.cn^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||ads*.dfiles.ru^
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||tccd.douglas.
+||sta.extreme-down.
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
 ||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+||df.infra.shopee.
 <p><pre>
 <title>
 <html>
