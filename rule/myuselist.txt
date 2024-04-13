@@ -70,6 +70,28 @@
 @@||bdstatic.com^$important
 ||tieba-ares.cdn.bcebos.com^$important
 
+#20240414
+||microdone.cn^$important
+#@@||logs.game.qq.com^$important
+#@@||aegis.qq.com^$important
+#@@||pingfore.qq.com^$important
+#@@||beaconcdn.qq.com^$important
+#@@||tcls.igame.qq.com^$important
+#@@||biliapi.net^$important
+#@@||hdslb.com^$important
+#@@||ali-web-player-tracker.biliapi.net^$important
+#@@||dataflow.biliapi.com^$important
+#@@||mon.zijieapi.com^$important
+#@@||mssdk.bytedance.com^$important
+#@@||nstool.netease.com^$important
+#@@||data.bilibili.com^$important
+#@@||live-trace.bilibili.com^$important
+#@@||chat.bilibili.com^$important
+#@@||www.javlibrary.com^$important
+#@@||sensorsdata.cn^$important
+#@@||lf1-cdn-tos.bytegoofy.com^$client='10.5.33.120'
+#@@||mcs.zijieapi.com^$client='10.5.33.120'
+
 !-------------黑名单--------------------
 
 ||log.uu.163.com^$important
