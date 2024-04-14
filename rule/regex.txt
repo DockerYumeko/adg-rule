@@ -1,4 +1,4 @@
-# Update time: 2024-04-14 18:40:05
+# Update time: 2024-04-15 06:23:00
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -103,7 +103,6 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||marketplace-*.hyprmx.com^
 ||analytics.streamfab.
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -142,7 +141,6 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
-||aff*.kolektiva.net^
 ||adx-*.dbankedge.cn^
 ||pixel-*.rubiconproject.com^
 ||cdn-adn-*.rayjump.com^
@@ -180,7 +178,6 @@ analytics-*.aasaam.com
 ||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
-||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||fxhpaoxqyajvmdg.
@@ -236,7 +233,6 @@ analytics-*.aasaam.com
 ||under-click.
 ||collector-*.px-client.net^
 ||log-*.epicdn.me^
-||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||tracker.twenga.
@@ -309,6 +305,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -462,7 +459,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -499,6 +495,7 @@ advertisers.js|
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
+||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -535,10 +532,13 @@ advertisers.js|
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
+||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
+||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
@@ -563,18 +563,6 @@ rgmechanicsgames.com*VPN.exe
 @@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||ubt.tracking.shopee.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -587,9 +575,21 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||ubt.tracking.shopee.
+||tccd.douglas.
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
+||onetrust.
+||acookie.*.gif?
