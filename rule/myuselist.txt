@@ -92,8 +92,6 @@
 #@@||tcls.igame.qq.com^$important
 #@@||mon.zijieapi.com^$important
 #@@||mssdk.bytedance.com^$important
-#@@||nstool.netease.com^$important
-#@@||www.javlibrary.com^$important
 #@@||sensorsdata.cn^$important
 #@@||lf1-cdn-tos.bytegoofy.com^$client='10.5.33.120'
 #@@||mcs.zijieapi.com^$client='10.5.33.120'
