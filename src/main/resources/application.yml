@@ -9,9 +9,9 @@ logging:
     path: ./logs
 
 application:
-#  config:
-#    expected_quantity: 2000000  #预期规则数量
-#    fault_tolerance: 0.001 #容错率
+  config:
+    expected_quantity: 2000000  #预期规则数量
+    fault_tolerance: 0.001 #容错率
 #    warn_limit: 7 #警告阈值, 规则长度小于该值时会输出警告日志
 #    batch_size: 10000 #写入文件的批次大小
     
@@ -20,16 +20,22 @@ application:
     remote:
 #      - name: 'adblock-nocoin-list' 
 #        path: 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' 
-      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt'
+#      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt'
 #      - name: 'Scam Blocklist' 
 #        path: 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt' 
-      - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt'
+#      - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt'
 #      - name: 'Dan Pollock.s List' 
 #        path: 'https://someonewhocares.org/hosts/zero/hosts' 
-      - 'https://someonewhocares.org/hosts/zero/hosts'
+#      - 'https://someonewhocares.org/hosts/zero/hosts'
 #      - name: 'AdGuard Base' 
 #        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
+#      - name: AdGuard URL跟踪过滤器
+#        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt'
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt'
+#      - name: AdGuard 解除搜索广告和自我推销过滤器
+#        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt'
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt'
 #      - name: 'AdGuard DNS filter' 
 #        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt' 
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt'
@@ -42,6 +48,9 @@ application:
 #      - name: 'Adguard Filter DNS Annoyances MobileAPP' 
 #        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt' 
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt'
+#      - name: 'Adguard Filter Mobile'
+#        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt'
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt'
 #      - name: 'Adguard Filter DNS JP' 
 #        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt' 
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt'

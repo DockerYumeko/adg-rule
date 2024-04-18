@@ -70,6 +70,19 @@
 @@||bdstatic.com^$important
 ||tieba-ares.cdn.bcebos.com^$important
 
+
+#bilibili
+#@@||ali-web-player-tracker.biliapi.net^$important
+#@@||dataflow.biliapi.com^$important
+#@@||live-trace.bilibili.com^$important
+!-----简单测试后，该五条规则影响直播、礼物、弹幕聊天-----
+@@||data.bilibili.com^$important
+@@||live-trace.bilibili.com/xlive/data-interface^$important
+@@||chat.bilibili.com^$important
+@@||hdslb.com^$important
+@@||biliapi.net^$important
+!----------------------------------------------------------
+
 #20240414
 ||microdone.cn^$important
 #@@||logs.game.qq.com^$important
@@ -77,16 +90,9 @@
 #@@||pingfore.qq.com^$important
 #@@||beaconcdn.qq.com^$important
 #@@||tcls.igame.qq.com^$important
-#@@||biliapi.net^$important
-#@@||hdslb.com^$important
-#@@||ali-web-player-tracker.biliapi.net^$important
-#@@||dataflow.biliapi.com^$important
 #@@||mon.zijieapi.com^$important
 #@@||mssdk.bytedance.com^$important
 #@@||nstool.netease.com^$important
-#@@||data.bilibili.com^$important
-#@@||live-trace.bilibili.com^$important
-#@@||chat.bilibili.com^$important
 #@@||www.javlibrary.com^$important
 #@@||sensorsdata.cn^$important
 #@@||lf1-cdn-tos.bytegoofy.com^$client='10.5.33.120'
