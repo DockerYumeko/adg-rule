@@ -1,4 +1,4 @@
-# Update time: 2024-04-25 00:16:11
+# Update time: 2024-04-25 09:02:08
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -309,6 +309,7 @@ analytics-*.aasaam.com
 ||bms*.adjarabet.com^
 ||analytics*.prezly.com^
 ||collector.xhamster*.
+||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
 ||adx.
@@ -561,6 +562,7 @@ advertisers.js|
 ||sta.extreme-down.
 ||analytics.ticketmaster.
 ||df.infra.shopee.
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -573,7 +575,11 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-@@||tongji.*kuwo.cn^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
@@ -587,8 +593,3 @@ rgmechanicsgames.com*VPN.exe
 ||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
-<p><pre>
-<title>
-<html>
-<head>
-<body>
