@@ -1,4 +1,4 @@
-# Update time: 2024-04-29 16:18:20
+# Update time: 2024-04-30 00:16:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -85,7 +85,9 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 ||host*.carl-ras.dk^
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -133,7 +135,6 @@ analytics-*.aasaam.com
 ||linkexchange.
 ||block.s*block.com^
 ||analytics.streamfab.
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -168,7 +169,6 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
-||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -196,7 +196,6 @@ analytics-*.aasaam.com
 ||admulti.
 ||eum*.instana.io^
 ||piwik.*.com.vn^
-||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||fxhpaoxqyajvmdg.
@@ -209,7 +208,6 @@ analytics-*.aasaam.com
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
-||analytics-*-nfl.yinzcam.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
@@ -247,7 +245,6 @@ analytics-*.aasaam.com
 ||under-click.
 ||collector-*.px-client.net^
 ||log-*.epicdn.me^
-||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -478,6 +475,7 @@ advertisers.js|
 ||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
+||analytics-*-nfl.yinzcam.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
@@ -499,6 +497,7 @@ advertisers.js|
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
+||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -523,6 +522,7 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -533,10 +533,13 @@ advertisers.js|
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
+||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
+||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
@@ -549,21 +552,16 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
 ||centent.streamp1ay.
-||onetrust.
-||142.91.159.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||spryptvqguhpwt^
-||analytics.ticketmaster.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
 ||cintent.streanplay.
-||df.infra.shopee.
+Banner468x60
 ||icast.
 ||gg.
 ||union.
@@ -576,22 +574,22 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||ads.livetv*.me^
-||cintent.streanplay.
-Banner468x60
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
+||onetrust.
+||142.91.159.
+||acookie.*.gif?
+||spryptvqguhpwt^
+@@||tongji.*kuwo.cn^
