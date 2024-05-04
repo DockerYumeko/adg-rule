@@ -1,4 +1,4 @@
-# Update time: 2024-05-04 16:15:57
+# Update time: 2024-05-05 00:16:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -480,18 +480,6 @@ rgmechanicsgames.com*VPN.exe
 ||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
-@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -504,6 +492,23 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+@@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.sz.shopee.
+||onetrust.
+||acookie.*.gif?
+||df.infra.shopee.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -589,8 +594,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
