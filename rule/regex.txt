@@ -1,4 +1,4 @@
-# Update time: 2024-05-07 00:18:54
+# Update time: 2024-05-07 09:00:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -467,34 +467,6 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -510,6 +482,7 @@ Banner468x60
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
+||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -518,6 +491,8 @@ Banner468x60
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -540,6 +515,7 @@ Banner468x60
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
+||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -549,6 +525,7 @@ Banner468x60
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -576,12 +553,14 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
-@@||tongji.*kuwo.cn^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+Banner468x60
 ||icast.
 ||gg.
 ||union.
@@ -594,3 +573,24 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+@@||tongji.*kuwo.cn^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||centent.streamp1ay.
+||onetrust.
+||142.91.159.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||spryptvqguhpwt^
+||analytics.ticketmaster.
+||cintent.streanplay.
+||df.infra.shopee.
