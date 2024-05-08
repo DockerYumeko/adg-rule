@@ -1,4 +1,4 @@
-# Update time: 2024-05-08 00:15:52
+# Update time: 2024-05-08 08:51:16
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -75,7 +75,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -136,6 +135,7 @@ analytics-*.aasaam.com
 ||linkexchange.
 ||block.s*block.com^
 ||analytics.streamfab.
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -170,6 +170,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -197,6 +198,7 @@ analytics-*.aasaam.com
 ||admulti.
 ||eum*.instana.io^
 ||piwik.*.com.vn^
+||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||fxhpaoxqyajvmdg.
@@ -247,6 +249,7 @@ analytics-*.aasaam.com
 ||under-click.
 ||collector-*.px-client.net^
 ||log-*.epicdn.me^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -319,7 +322,6 @@ MRelateFeedAd
 ||sell*.etlong.com^
 ||smartads.
 ||adshare.
-||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||adstats.
 ||toujing*.top^
@@ -464,48 +466,33 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||widgets.*.webengage.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||142.91.159.
 ||spryptvqguhpwt^
+@@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
-@@||tongji.*kuwo.cn^
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
-||matt.mercadolibre.
+||centent.streamp1ay.
 ||onetrust.
-||tccd.douglas.
+||142.91.159.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
-||sta.extreme-down.
 ||analytics.ticketmaster.
+||cintent.streanplay.
 ||df.infra.shopee.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
+@@||tongji.*kuwo.cn^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -516,6 +503,7 @@ Banner468x60
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
+||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
@@ -539,7 +527,6 @@ Banner468x60
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
-||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -564,6 +551,7 @@ Banner468x60
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -574,13 +562,10 @@ Banner468x60
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
@@ -594,3 +579,20 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
