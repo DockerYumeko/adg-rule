@@ -1,4 +1,4 @@
-# Update time: 2024-05-12 09:06:00
+# Update time: 2024-05-12 16:17:08
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -75,6 +75,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -416,7 +417,6 @@ MRelateFeedAd
 ||adshare.
 ||player.letvcdn.com*.swf|
 ||adstats.
-||toujing*.top^
 ||popup.*.js*
 ||ggg.
 ||advert.
@@ -464,7 +464,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -482,6 +481,7 @@ advertisers.js|
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
+||toujing*.top^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||adservice.google.*^
@@ -525,6 +525,7 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -552,6 +553,18 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+||spryptvqguhpwt^
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 ||matt.mercadolibre.
@@ -563,6 +576,7 @@ advertisers.js|
 ||sta.extreme-down.
 ||analytics.ticketmaster.
 ||df.infra.shopee.
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -575,20 +589,6 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-@@||tongji.*kuwo.cn^
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||142.91.159.
-||spryptvqguhpwt^
-||cintent.streanplay.
-Banner468x60
 <p><pre>
 <title>
 <html>
