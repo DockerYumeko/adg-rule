@@ -1,4 +1,4 @@
-# Update time: 2024-05-19 00:16:09
+# Update time: 2024-05-19 09:06:54
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -171,7 +171,6 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
-||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -312,6 +311,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -323,6 +323,7 @@ MRelateFeedAd
 ||sell*.etlong.com^
 ||smartads.
 ||adshare.
+||dm-*.toutiao.com^
 ||player.letvcdn.com*.swf|
 ||adstats.
 ||toujing*.top^
@@ -467,7 +468,6 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||widgets.*.webengage.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
@@ -481,17 +481,6 @@ rgmechanicsgames.com*VPN.exe
 ||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -505,6 +494,22 @@ Banner468x60
 ||saxs.sina.
 ||adsame.
 @@||tongji.*kuwo.cn^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||onetrust.
+||tccd.douglas.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -515,7 +520,6 @@ Banner468x60
 ||log*-misc-lq.amemv.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
-||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
@@ -539,6 +543,7 @@ Banner468x60
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
+||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -590,8 +595,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
