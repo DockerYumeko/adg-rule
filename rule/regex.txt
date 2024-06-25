@@ -1,4 +1,4 @@
-# Update time: 2024-06-25 09:04:51
+# Update time: 2024-06-25 16:18:58
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -77,7 +77,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -177,6 +176,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -326,6 +326,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -479,6 +480,30 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+||onetrust.
+||tccd.douglas.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+||df.infra.shopee.
+@@||tongji.*kuwo.cn^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -514,7 +539,6 @@ advertisers.js|
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
-||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -579,30 +603,6 @@ rgmechanicsgames.com*VPN.exe
 @@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-||onetrust.
-||tccd.douglas.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
-@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
