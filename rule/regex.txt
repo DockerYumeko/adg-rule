@@ -1,4 +1,4 @@
-# Update time: 2024-07-08 16:19:12
+# Update time: 2024-07-09 00:18:33
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -79,6 +79,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -114,7 +115,9 @@ analytics-*.aasaam.com
 ||real*traf.ru^
 ||f-log-*.grammarly.io^
 ||wa.gmx.
+||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
+||bi-eventtracker-*.amazonaws.com^
 ||pxl-*.ozone.ru^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
@@ -124,6 +127,7 @@ analytics-*.aasaam.com
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||pixel*.adswizz.com
+||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
@@ -217,6 +221,7 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||u*.takru.com^
 ||www.fuze-sea*.xyz^
+||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
@@ -235,6 +240,7 @@ analytics-*.aasaam.com
 ||pop-under.
 ||gscounters.*.gigya.com^
 ||talpa-analytics.
+||c*hit.zerkalo.io^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||ads-*.v.ssp.yahoo.com^
@@ -297,11 +303,11 @@ analytics-*.aasaam.com
 ||quangcao-*.epicdn.me^
 ||rotator.
 ||bms*.adjarabet.com^
+||analytics*.prezly.com^
 ||collector.xhamster*.
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -472,7 +478,6 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
-||browser-intake-*-datadoghq.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -482,18 +487,14 @@ advertisers.js|
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
-||analytics*.clickdimensions.com^
-||bi-eventtracker-*.amazonaws.com^
 ||hbbtv.*.de^
 ||batchlogging*-noneu.truecaller.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
-||ce-global-track-*.amazonaws.com^
 ||ana*.inews24.com^
 ||gads*s.com^
 ||geotargetly-api-*.com^
 ||fads*z.com^
-||c*hit.zerkalo.io^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
 ||ej1*.online^
@@ -547,6 +548,7 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
+||util-*.simply-hentai.com^
 ||collector-*.px-cloud.net^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -560,7 +562,6 @@ advertisers.js|
 ||aem-collector-*.kgslb.com^
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
-||analytics*.prezly.com^
 ||ap*.pl520.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
@@ -569,9 +570,12 @@ advertisers.js|
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||cintent.streanplay.
 Banner468x60
 ||icast.
 ||gg.
@@ -585,24 +589,20 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
-||centent.streamp1ay.
+||matt.mercadolibre.
 ||onetrust.
-||142.91.159.
+||tccd.douglas.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
+||sta.extreme-down.
 ||analytics.ticketmaster.
-||cintent.streanplay.
 ||df.infra.shopee.
-@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+@@||tongji.*kuwo.cn^
