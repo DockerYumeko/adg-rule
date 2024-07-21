@@ -1,4 +1,4 @@
-# Update time: 2024-07-21 09:12:15
+# Update time: 2024-07-21 16:17:06
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -62,6 +62,7 @@
 ||107.167.22.*.gif
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
+||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
@@ -142,6 +143,7 @@ analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||analytics.streamfab.
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -205,6 +207,7 @@ analytics-*.aasaam.com
 ||admulti.
 ||eum*.instana.io^
 ||piwik.*.com.vn^
+||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||fxhpaoxqyajvmdg.
@@ -217,6 +220,7 @@ analytics-*.aasaam.com
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
@@ -256,6 +260,7 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -423,12 +428,14 @@ advertisers.js|
 ||dwtrack*.*^
 ||engage.3m*^
 ||adm*.autoimg.cn^
+||ads*-normal-hl.zijieapi.com^
 ||xn--xhq9mt12cf5v.*^
 ||grjs0*.com^
 ||ad-*.com^
 ||applovin*.*^
 ||hostingcloud.*^
 ||vegaoo*.*^
+||ads*-adnow.com^
 ||clkservice*.youdao.com^
 ||supersonicads*.*^
 ||admob.*^
@@ -450,6 +457,7 @@ advertisers.js|
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
+||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -472,6 +480,7 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -485,7 +494,6 @@ advertisers.js|
 ||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
-||analytics-*-nfl.yinzcam.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
@@ -515,13 +523,11 @@ advertisers.js|
 ||tblog-*.kgslb.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
-||ads*-normal-hl.zijieapi.com^
 ||n*adserv.com^
 ||zahrvfbd*.xyz^
 ||apple.com-*.live^
 ||zbc6hy*.live^
 ||hbbtv.*.de^
-||ads*-adnow.com^
 ||sads*z.com^
 ||zcchyr*.xyz^
 ||ads*.dfiles.eu^
@@ -544,14 +550,10 @@ advertisers.js|
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
-||admicro*.vcmedia.vn^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
@@ -576,7 +578,18 @@ rgmechanicsgames.com*VPN.exe
 @@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
-||widgets.*.webengage.com^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 @@||tongji.*kuwo.cn^
 ||matt.mercadolibre.
 ||tccd.douglas.
@@ -596,15 +609,3 @@ Banner468x60
 <html>
 <head>
 <body>
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
