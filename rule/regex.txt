@@ -1,4 +1,4 @@
-# Update time: 2024-07-25 09:07:28
+# Update time: 2024-07-25 16:19:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -143,6 +143,7 @@ analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
 ||analytics.streamfab.
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -178,6 +179,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -206,6 +208,7 @@ analytics-*.aasaam.com
 ||admulti.
 ||eum*.instana.io^
 ||piwik.*.com.vn^
+||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
 ||fxhpaoxqyajvmdg.
@@ -218,6 +221,7 @@ analytics-*.aasaam.com
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
@@ -257,6 +261,7 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -321,6 +326,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -475,7 +481,6 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -490,7 +495,6 @@ advertisers.js|
 ||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
-||analytics-*-nfl.yinzcam.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
@@ -512,7 +516,6 @@ advertisers.js|
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
-||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -547,13 +550,10 @@ advertisers.js|
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
@@ -590,19 +590,19 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
+||matt.mercadolibre.
 ||onetrust.
+||tccd.douglas.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
+||sta.extreme-down.
 ||analytics.ticketmaster.
-%2Fevent.gif%3F
 ||df.infra.shopee.
+%2Fopen.aspx%3F
+%2Fevent.gif%3F
 @@||tongji.*kuwo.cn^
 <p><pre>
 <title>
