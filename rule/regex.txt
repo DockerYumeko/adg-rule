@@ -1,4 +1,4 @@
-# Update time: 2024-07-29 09:09:21
+# Update time: 2024-07-29 16:19:19
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -179,6 +179,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -325,7 +326,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -419,6 +419,31 @@ analytics-*.aasaam.com
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||widgets.*.webengage.com^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ||adx.
 ||adx-
 ||adsfs.
@@ -514,7 +539,6 @@ advertisers.js|
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
-||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -567,31 +591,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
-@@||tongji.*kuwo.cn^
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -609,3 +608,4 @@ Banner468x60
 <html>
 <head>
 <body>
+@@||tongji.*kuwo.cn^
