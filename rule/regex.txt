@@ -1,4 +1,4 @@
-# Update time: 2024-08-06 09:07:56
+# Update time: 2024-08-06 16:18:28
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -47,7 +47,9 @@
 ||fanpingbi*.gaokao.com^
 ||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
+||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 ||iwanshang*.asia^
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
@@ -56,6 +58,7 @@
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
 ||107.167.22.*.gif
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
@@ -66,6 +69,7 @@
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
+||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -426,6 +430,7 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
+||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||player.letvcdn.com*.swf|
@@ -457,6 +462,7 @@ getAds|
 ||img.piaosugo.com*.jpg
 ||adsmis.
 ||adserver.
+||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
@@ -490,6 +496,32 @@ rgmechanicsgames.com*VPN.exe
 @@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
+@@||tongji.*kuwo.cn^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -498,7 +530,6 @@ Banner468x60
 ||zcchyw*.xyz^
 ||cj1*.online^
 ||log*-misc-lq.amemv.com^
-||sell*.etlong.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
 ||dm-*.toutiao.com^
@@ -545,18 +576,14 @@ Banner468x60
 ||zaqlovh*.xyz^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
-||sense-*.tapdb.net^
 ||adsfilebssdlbig.*.kugou.com^
-||a*.chajiaotong.com^
 ||gads*s.com^
 ||aj1*.xyz^
-||ac*.786ip.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
 ||display-ad-*.kgslb.com^
 ||mads*z.com^
-||ac*.pingguolv.com^
 ||gtlpa*.com^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -568,7 +595,6 @@ Banner468x60
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
-||ac*.faxingchina.com^
 ||aem-collector-*.kgslb.com^
 ||analytics-ad-*.kgslb.com^
 ||ads.*.kugou.com^
@@ -579,34 +605,8 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
