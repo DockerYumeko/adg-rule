@@ -1,4 +1,4 @@
-# Update time: 2024-08-27 00:20:21
+# Update time: 2024-08-27 09:10:17
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -330,6 +330,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -462,7 +463,6 @@ getAds|
 ||img.piaosugo.com*.jpg
 ||adsmis.
 ||adserver.
-||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
@@ -484,7 +484,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -540,10 +539,10 @@ advertisers.js|
 ||zaqlovh*.xyz^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
+||sense-*.tapdb.net^
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
-||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -570,36 +569,17 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
 %2Fopen.aspx%3F
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
-||onetrust.
+||matt.mercadolibre.
+||tccd.douglas.
 ||sta.zone-telechargement.
-||acookie.*.gif?
 ||sta.wawacity.
+||sta.extreme-down.
 ||analytics.ticketmaster.
 %2Fevent.gif%3F
 ||df.infra.shopee.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
-@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -612,3 +592,23 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+<p><pre>
+<title>
+<html>
+<head>
+<body>
+@@||tongji.*kuwo.cn^
+||onetrust.
+||acookie.*.gif?
