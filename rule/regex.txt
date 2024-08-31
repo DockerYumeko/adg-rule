@@ -1,4 +1,4 @@
-# Update time: 2024-08-31 09:11:25
+# Update time: 2024-08-31 16:19:35
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -81,6 +81,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -103,7 +104,6 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
 ||partner.superbahisaffiliates*.com^
-||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
@@ -145,7 +145,6 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||analytics.streamfab.
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -330,7 +329,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -484,18 +482,12 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-||util-*.simply-hentai.com^
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
+%2Fopen.aspx%3F
+||df.infra.sz.shopee.
+||tccd.douglas.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -508,11 +500,25 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-<p><pre>
-<title>
-<html>
-<head>
-<body>
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -534,6 +540,7 @@ Banner468x60
 ||adservice.google.*^
 ||log*-applog-*.tiktokv.com^
 ||ad.kisstvshow.*^
+||admob-app-id-*.firebaseio.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
@@ -583,6 +590,7 @@ Banner468x60
 ||stat.*.v-56.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
 ||ap*.jj20.com^
@@ -598,17 +606,9 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 @@||tongji.*kuwo.cn^
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
