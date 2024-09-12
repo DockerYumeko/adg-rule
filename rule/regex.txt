@@ -1,4 +1,4 @@
-# Update time: 2024-09-12 09:12:20
+# Update time: 2024-09-12 16:19:53
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -79,6 +79,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||widgets.*.webengage.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -153,6 +154,7 @@ analytics-*.aasaam.com
 ||flurry.agentportal.*.yahoodns.net^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
+||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||logs*.smithsonian.museum^
@@ -205,6 +207,7 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
 ||admulti.
+||admicro*.vcmedia.vn^
 ||eum*.instana.io^
 ||piwik.*.com.vn^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -461,7 +464,6 @@ advertisers.js|
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
-||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -480,10 +482,39 @@ advertisers.js|
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
-||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||ads*.dfiles.ru^
+||centent.streamp1ay.
+||142.91.159.
+||cintent.streanplay.
+Banner468x60
+@@||tongji.*kuwo.cn^
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -499,7 +530,6 @@ advertisers.js|
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
-||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||adservice.google.*^
 ||log*-applog-*.tiktokv.com^
@@ -507,8 +537,6 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -531,7 +559,6 @@ advertisers.js|
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
-||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -541,7 +568,6 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
-||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -568,24 +594,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
-@@||tongji.*kuwo.cn^
-||widgets.*.webengage.com^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
 ||icast.
 ||gg.
 ||union.
@@ -598,17 +606,8 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||centent.streamp1ay.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
+<p><pre>
+<title>
+<html>
+<head>
+<body>
