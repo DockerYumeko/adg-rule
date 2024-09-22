@@ -1,4 +1,4 @@
-# Update time: 2024-09-22 09:20:40
+# Update time: 2024-09-22 16:18:42
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -101,7 +101,6 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
 ||partner.superbahisaffiliates*.com^
-||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
@@ -143,7 +142,6 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||analytics.streamfab.
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -178,7 +176,6 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
-||aff*.kolektiva.net^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -430,7 +427,6 @@ MRelateFeedAd
 ||adsmind.
 ||adsfile.
 ||bigdata.
-||sell*.etlong.com^
 ||smartads.
 ||adshare.
 ||player.letvcdn.com*.swf|
@@ -462,7 +458,6 @@ getAds|
 ||img.piaosugo.com*.jpg
 ||adsmis.
 ||adserver.
-||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
@@ -484,22 +479,6 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
-||ads*.opensubtitles.org^
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
-||cintent.streanplay.
-Banner468x60
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -508,6 +487,7 @@ Banner468x60
 ||zcchyw*.xyz^
 ||cj1*.online^
 ||log*-misc-lq.amemv.com^
+||sell*.etlong.com^
 ||stats*.credit-cooperatif.coop^
 ||ulog*.*^
 ||dm-*.toutiao.com^
@@ -515,13 +495,17 @@ Banner468x60
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
+||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||adservice.google.*^
 ||log*-applog-*.tiktokv.com^
 ||ad.kisstvshow.*^
+||admob-app-id-*.firebaseio.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -530,6 +514,7 @@ Banner468x60
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||zbc6hye*.xyz^
+||aff*.kolektiva.net^
 ||opnked*.xyz^
 ||promo-*.vercel.app^
 ||www.xxmh*.com^
@@ -544,15 +529,18 @@ Banner468x60
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
+||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
+||sense-*.tapdb.net^
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -564,6 +552,7 @@ Banner468x60
 ||stat.*.v-56.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
 ||ap*.jj20.com^
@@ -579,6 +568,29 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||matt.mercadolibre.
 ||tccd.douglas.
 ||sta.extreme-down.
@@ -592,18 +604,6 @@ Banner468x60
 ||analytics.ticketmaster.
 %2Fevent.gif%3F
 ||df.infra.shopee.
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 @@||tongji.*kuwo.cn^
 <p><pre>
 <title>
