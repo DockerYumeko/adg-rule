@@ -1,4 +1,4 @@
-# Update time: 2024-10-22 16:21:38
+# Update time: 2024-10-23 00:21:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -145,7 +145,6 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||analytics.streamfab.
-||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -560,6 +559,7 @@ advertisers.js|
 ||stat.*.v-56.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
 ||ap*.jj20.com^
@@ -575,6 +575,7 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+@@||tongji.*kuwo.cn^
 ||icast.
 ||gg.
 ||union.
@@ -587,25 +588,11 @@ advertisers.js|
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||stats.zone-annuaire.
-||matt.mercadolibre.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||df.infra.sz.shopee.
-||tccd.douglas.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
@@ -618,3 +605,16 @@ rgmechanicsgames.com*VPN.exe
 @@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
+||matt.mercadolibre.
+||tccd.douglas.
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
