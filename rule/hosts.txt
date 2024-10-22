@@ -1,4 +1,4 @@
-# Update time: 2024-10-22 09:17:10
+# Update time: 2024-10-22 16:21:38
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
