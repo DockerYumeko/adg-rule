@@ -1,4 +1,4 @@
-# Update time: 2024-10-26 16:19:37
+# Update time: 2024-10-27 00:18:52
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -333,7 +333,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -490,6 +489,7 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -580,10 +580,12 @@ advertisers.js|
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
 ||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||cintent.streanplay.
 Banner468x60
 ||icast.
 ||gg.
@@ -597,24 +599,22 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||centent.streamp1ay.
-||onetrust.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
-||cintent.streanplay.
-%2Fevent.gif%3F
-||df.infra.shopee.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+%2Fopen.aspx%3F
+||df.infra.sz.shopee.
+||tccd.douglas.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
+||stats.zone-annuaire.
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||sta.extreme-down.
 @@||tongji.*kuwo.cn^
