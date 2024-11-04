@@ -1,4 +1,4 @@
-# Update time: 2024-11-04 16:21:52
+# Update time: 2024-11-05 00:21:06
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -96,6 +96,7 @@ analytics-*.aasaam.com
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
 ||partner.superbahisaffiliates*.com^
+||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
@@ -137,6 +138,7 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||analytics.streamfab.
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||ad*.tmgrup.com.tr^
@@ -201,6 +203,7 @@ analytics-*.aasaam.com
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||piwik.*.com.vn^
+||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
@@ -214,6 +217,7 @@ analytics-*.aasaam.com
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
@@ -257,6 +261,7 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||tnc*.zijieapi.com^
 ||tracker.twenga.
@@ -489,7 +494,9 @@ advertisers.js|
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
 ||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
@@ -500,13 +507,10 @@ Banner468x60
 ||tccd.douglas.
 ||sta.extreme-down.
 %2Fopen.aspx%3F
-||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 %2Frw%2Fbeacon_
-||centent.streamp1ay.
 ||onetrust.
-||142.91.159.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
@@ -544,7 +548,6 @@ Banner468x60
 ||dm-*.toutiao.com^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
-||analytics-*-nfl.yinzcam.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
@@ -552,7 +555,6 @@ Banner468x60
 ||adservice.google.*^
 ||log*-applog-*.tiktokv.com^
 ||ad.kisstvshow.*^
-||admob-app-id-*.firebaseio.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
@@ -601,13 +603,10 @@ Banner468x60
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||fads*s.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
