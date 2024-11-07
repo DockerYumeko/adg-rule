@@ -1,4 +1,4 @@
-# Update time: 2024-11-07 00:21:27
+# Update time: 2024-11-07 09:15:20
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -1056,6 +1056,7 @@
 127.0.0.1 a3536.casalemedia.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 metrics.fedex.com
+127.0.0.1 bluekai.com.edgekey.net
 127.0.0.1 servicer.lentainform.com
 127.0.0.1 cloud-emea.analytics-egain.com
 127.0.0.1 apps.shareaholic.com
@@ -10173,6 +10174,7 @@
 0.0.0.0 s4.histats.com
 0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 v.jumorecn.com.cn
+0.0.0.0 license.piriform.com
 0.0.0.0 analytics3.starschina.com
 0.0.0.0 addata.ku6.com
 0.0.0.0 t.hmwebs.top
