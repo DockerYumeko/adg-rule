@@ -1,4 +1,4 @@
-# Update time: 2024-11-15 00:21:22
+# Update time: 2024-11-15 09:20:35
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -209,7 +209,6 @@ analytics-*.aasaam.com
 ||stats-*.p2pnow.ru^
 ||broredir*s.site^
 ||admulti.
-||admicro*.vcmedia.vn^
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||piwik.*.com.vn^
@@ -339,7 +338,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||widgets.*.webengage.com^
-||chat*-ce.chatdealer.jp^
 ||adx.
 ||adx-
 ||adsfs.
@@ -473,6 +471,7 @@ advertisers.js|
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
+||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -494,18 +493,6 @@ advertisers.js|
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-||util-*.simply-hentai.com^
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -563,6 +550,8 @@ Banner468x60
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||chat*-ce.chatdealer.jp^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -589,17 +578,15 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||matt.mercadolibre.
-||tccd.douglas.
-||sta.extreme-down.
 %2Fopen.aspx%3F
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
+||matt.mercadolibre.
 %2Frw%2Fbeacon_
-||onetrust.
+||tccd.douglas.
 ||sta.zone-telechargement.
-||acookie.*.gif?
 ||sta.wawacity.
+||sta.extreme-down.
 ||analytics.ticketmaster.
 %2Fevent.gif%3F
 ||df.infra.shopee.
@@ -616,8 +603,22 @@ Banner468x60
 ||saxs.sina.
 ||adsame.
 @@||tongji.*kuwo.cn^
+||centent.streamp1ay.
+||onetrust.
+||acookie.*.gif?
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
