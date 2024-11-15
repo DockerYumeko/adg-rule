@@ -1,4 +1,4 @@
-# Update time: 2024-11-15 09:20:35
+# Update time: 2024-11-15 16:21:57
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 bn4sch101120911.wns.windows.com
