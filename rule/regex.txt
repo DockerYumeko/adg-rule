@@ -1,4 +1,4 @@
-# Update time: 2024-11-19 09:20:31
+# Update time: 2024-11-19 16:22:46
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||sax*.sina.
@@ -199,7 +199,6 @@ analytics-*.aasaam.com
 ||pop-under.
 ||gscounters.*.gigya.com^
 ||talpa-analytics.
-||c*hit.zerkalo.io^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||ads-*.v.ssp.yahoo.com^
@@ -468,6 +467,19 @@ oHead6205.appendChild( oScript6205);
 advertisers.js|
 ||yazhouyu.
 ||advertise.
+@@||tongji.*kuwo.cn^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||cj1*.online^
@@ -507,6 +519,7 @@ advertisers.js|
 ||gads*s.com^
 ||geotargetly-api-*.com^
 ||fads*z.com^
+||c*hit.zerkalo.io^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
 ||ej1*.online^
@@ -582,17 +595,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||analytics.*.sky.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
 ||matt.mercadolibre.
 ||tccd.douglas.
 ||sta.extreme-down.
@@ -607,21 +609,19 @@ Banner468x60
 ||analytics.ticketmaster.
 %2Fevent.gif%3F
 ||df.infra.shopee.
-@@||tongji.*kuwo.cn^
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
