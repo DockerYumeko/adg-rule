@@ -1,4 +1,4 @@
-# Update time: 2024-12-17 16:24:03
+# Update time: 2024-12-18 00:23:05
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -42,12 +42,14 @@
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
+||impservice*.youdao.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||bdlm*.hc360.com^
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
 ||fpb*.51edu.com^
+||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
@@ -55,6 +57,7 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
 ||fpb1.chinacar.
@@ -115,6 +118,7 @@ analytics-*.aasaam.com
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||pixel*.adswizz.com
+||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
@@ -179,6 +183,7 @@ analytics-*.aasaam.com
 ||analytics.ahrefs.
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
+||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
@@ -201,6 +206,7 @@ analytics-*.aasaam.com
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
 ||tw*.netcore.co.in^
+||clog*.yuanfudao.com^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
@@ -217,6 +223,7 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||u*.takru.com^
 ||www.fuze-sea*.xyz^
+||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
@@ -305,6 +312,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -376,7 +384,6 @@ advertisers.js|
 ||webads.*^
 ||umtrack*.com^
 ||admarvel*.*^
-||ja*.gamersky.com^
 ||assoc-amazon.*^
 ||flightzy.*^
 ||tr.*.espmp-*fr.net^
@@ -397,7 +404,6 @@ advertisers.js|
 ||vegaoo*.*^
 ||ads*-adnow.com^
 ||clkservice*.youdao.com^
-||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||count*.pconline.com.cn^
 ||iflyad.*.openstorage.cn^
@@ -457,7 +463,6 @@ advertisers.js|
 ||bs*.9669.cn^
 ||p*-ad-sign.byteimg.com^
 ||pussl*.com^
-||same*.stockstar.com^
 ||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
@@ -473,7 +478,6 @@ advertisers.js|
 ||tracker*.qcloud.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
-||clog*.yuanfudao.com^
 ||cj1*.online^
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
@@ -486,7 +490,6 @@ advertisers.js|
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
-||browser-intake-*-datadoghq.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -504,7 +507,6 @@ advertisers.js|
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||ali-bj-pcdn-*.biliapi.net^
-||ce-global-track-*.amazonaws.com^
 ||ana*.inews24.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
@@ -566,8 +568,6 @@ advertisers.js|
 ||aj1*.xyz^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
-||util-*.simply-hentai.com^
-||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -586,15 +586,6 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||analytics.*.sky.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-Banner468x60
-@@||tongji.*kuwo.cn^
 ||matt.mercadolibre.
 ||tccd.douglas.
 ||sta.extreme-down.
@@ -602,14 +593,11 @@ Banner468x60
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 %2Frw%2Fbeacon_
-||centent.streamp1ay.
 ||onetrust.
-||142.91.159.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
 ||analytics.ticketmaster.
-||cintent.streanplay.
 %2Fevent.gif%3F
 ||df.infra.shopee.
 ||icast.
@@ -624,9 +612,21 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||widgets.*.webengage.com^
+@@||tongji.*kuwo.cn^
 <p><pre>
 <title>
 <html>
 <head>
 <body>
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
