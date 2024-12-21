@@ -1,4 +1,4 @@
-# Update time: 2024-12-21 00:19:47
+# Update time: 2024-12-21 09:15:26
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -159,7 +159,6 @@ analytics-*.aasaam.com
 ||telemetry*.api.playstation.com^
 ||log*-normal-useast1a.lemon8-app.com^
 ||stat*.1internet.tv^
-||analyzer*.fc2.com^
 ||rb*.design.ru^
 ||log*.byteoversea.com^
 ||mon*-misc-lf.fqnovel.com^
@@ -437,6 +436,7 @@ analytics-*.aasaam.com
 ||minero-proxy-*.sh^
 ||qchannel*.cn^
 ||gg*.51cto.com^
+||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
@@ -501,22 +501,17 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
+||util-*.simply-hentai.com^
 @@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
 ||cintent.streanplay.
 Banner468x60
-||widgets.*.webengage.com^
 ||matt.mercadolibre.
 ||tccd.douglas.
 ||sta.extreme-down.
@@ -531,18 +526,7 @@ Banner468x60
 ||analytics.ticketmaster.
 %2Fevent.gif%3F
 ||df.infra.shopee.
-||icast.
-||gg.
-||union.
-||adpic.
-||cnzz.
-||sax.sina.
-||biz5.
-||xmindchina.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
+||widgets.*.webengage.com^
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -558,6 +542,7 @@ Banner468x60
 ||w*.*skwai.com^
 ||d*.wanzhuang.com^
 ||bjkedv*.xyz^
+||ads*.dfiles.ru^
 ||p26.gejulm*.com^
 ||adservice.google.*^
 ||log*-applog-*.tiktokv.com^
@@ -565,6 +550,8 @@ Banner468x60
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zabdybod*.club^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
 ||zazgbqg*.xyz^
@@ -587,6 +574,7 @@ Banner468x60
 ||hbbtv.*.de^
 ||sads*z.com^
 ||zcchyr*.xyz^
+||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
@@ -624,6 +612,18 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
+||icast.
+||gg.
+||union.
+||adpic.
+||cnzz.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 <p><pre>
 <title>
 <html>
