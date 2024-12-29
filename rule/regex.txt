@@ -1,4 +1,4 @@
-# Update time: 2024-12-29 16:19:44
+# Update time: 2024-12-30 00:18:20
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||reachableads-av.*.amazonaws.com^
@@ -42,6 +42,7 @@
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
+||impservice*.youdao.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
@@ -49,6 +50,7 @@
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
 ||fpb*.51edu.com^
+||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
@@ -57,6 +59,7 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
 ||ac*.faxingchina.com^
@@ -342,6 +345,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||widgets.*.webengage.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -413,7 +417,6 @@ advertisers.js|
 ||webads.*^
 ||umtrack*.com^
 ||admarvel*.*^
-||ja*.gamersky.com^
 ||assoc-amazon.*^
 ||flightzy.*^
 ||tr.*.espmp-*fr.net^
@@ -434,7 +437,6 @@ advertisers.js|
 ||vegaoo*.*^
 ||ads*-adnow.com^
 ||clkservice*.youdao.com^
-||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||count*.pconline.com.cn^
 ||iflyad.*.openstorage.cn^
@@ -494,7 +496,6 @@ advertisers.js|
 ||bs*.9669.cn^
 ||p*-ad-sign.byteimg.com^
 ||pussl*.com^
-||same*.stockstar.com^
 ||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
@@ -508,31 +509,30 @@ advertisers.js|
 ||adsh*.*^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||widgets.*.webengage.com^
 ||ads*.opensubtitles.org^
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||util-*.simply-hentai.com^
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||cintent.streanplay.
 Banner468x60
 @@||tongji.*kuwo.cn^
 ||matt.mercadolibre.
 ||sta.extreme-down.
 %2Fopen.aspx%3F
-||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 %2Frw%2Fbeacon_
-||centent.streamp1ay.
 ||onetrust.
-||142.91.159.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
 ||analytics.ticketmaster.
-||cintent.streanplay.
 %2Fevent.gif%3F
 ||df.infra.shopee.
 ||icast.
