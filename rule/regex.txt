@@ -1,4 +1,4 @@
-# Update time: 2025-02-01 00:19:42
+# Update time: 2025-02-01 09:18:56
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||ads-*-nfl.yinzcam.com^
@@ -358,7 +358,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||widgets.*.webengage.com^
-||chat*-ce.chatdealer.jp^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -449,6 +448,14 @@ analytics-*.aasaam.com
 ||lianmeng*.*^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+Banner468x60
 ||adx.
 ||adx-
 ||adsfs.
@@ -514,29 +521,21 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-||util-*.simply-hentai.com^
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
 ||matt.mercadolibre.
 ||sta.extreme-down.
 %2Fopen.aspx%3F
+||util-*.simply-hentai.com^
 ||stats.zone-annuaire.
 ||df.infra.sz.shopee.
 %2Frw%2Fbeacon_
+||centent.streamp1ay.
 ||onetrust.
+||142.91.159.
 ||sta.zone-telechargement.
 ||acookie.*.gif?
 ||sta.wawacity.
 ||analytics.ticketmaster.
+||cintent.streanplay.
 %2Fevent.gif%3F
 ||df.infra.shopee.
 ||icast.
@@ -551,6 +550,12 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+@@||tongji.*kuwo.cn^
+<p><pre>
+<title>
+<html>
+<head>
+<body>
 ||pangolin-sdk-toutiao*.com^
 ||aj2*.online^
 ||ping*.qq.com^
@@ -603,6 +608,7 @@ Banner468x60
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||chat*-ce.chatdealer.jp^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -627,9 +633,3 @@ Banner468x60
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-@@||tongji.*kuwo.cn^
-<p><pre>
-<title>
-<html>
-<head>
-<body>
