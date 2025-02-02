@@ -1,4 +1,4 @@
-# Update time: 2025-02-02 16:18:39
+# Update time: 2025-02-03 00:19:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||ads-*-nfl.yinzcam.com^
@@ -87,7 +87,6 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
 ||counter*.stat.ovh^
 |load.sst.
@@ -226,7 +225,6 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||servo-report.keepstreams.*^
@@ -328,7 +326,6 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||log-*.zadn.vn^
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||collect-v*.51.la^
 ||q*-publick.club^
@@ -566,7 +563,6 @@ advertisers.js|
 ||gads*s.com^
 ||aj1*.xyz^
 ||chat*-ce.chatdealer.jp^
-||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
@@ -591,17 +587,20 @@ advertisers.js|
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||ad.*.xiaomi.com^
-||ads*.opensubtitles.org^
-||gamenguide.com*adbk
-rgmechanicsgames.com*VPN.exe
-@@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
-||cintent.streanplay.
-Banner468x60
+@@||tongji.*kuwo.cn^
+||matt.mercadolibre.
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+%2Frw%2Fbeacon_
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ||icast.
 ||gg.
 ||union.
@@ -614,22 +613,23 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||reachableads-av.*.amazonaws.com^
+||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+||rgfftupf.
+@@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||cintent.streanplay.
+Banner468x60
 <p><pre>
 <title>
 <html>
 <head>
 <body>
-@@||tongji.*kuwo.cn^
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||matt.mercadolibre.
-%2Frw%2Fbeacon_
-||sta.zone-telechargement.
-||sta.wawacity.
-||sta.extreme-down.
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
-||onetrust.
-||acookie.*.gif?
