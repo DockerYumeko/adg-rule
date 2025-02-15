@@ -1,4 +1,4 @@
-# Update time: 2025-02-15 00:19:20
+# Update time: 2025-02-15 09:15:22
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||ads-*-nfl.yinzcam.com^
@@ -60,7 +60,6 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
-||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
 ||ac*.faxingchina.com^
@@ -148,6 +147,7 @@ analytics-*.aasaam.com
 ||block.s*block.com^
 ||sgtm.fairmont.
 ||analytics.streamfab.
+||tnc*.tiktokv.us^
 ||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
@@ -363,6 +363,7 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||widgets.*.webengage.com^
+||chat*-ce.chatdealer.jp^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -449,6 +450,7 @@ analytics-*.aasaam.com
 ||bs*.9669.cn^
 ||p*-ad-sign.byteimg.com^
 ||pussl*.com^
+||same*.stockstar.com^
 ||admicro*.vcmedia.vn^
 ||ad*.molitv.cn^
 ||tracking*.*^
@@ -577,7 +579,6 @@ advertisers.js|
 ||adsfilebssdlbig.*.kugou.com^
 ||gads*s.com^
 ||aj1*.xyz^
-||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
@@ -608,26 +609,13 @@ advertisers.js|
 ||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-Banner468x60
-||matt.mercadolibre.
-||sta.extreme-down.
-%2Fopen.aspx%3F
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-%2Frw%2Fbeacon_
-||centent.streamp1ay.
-||onetrust.
-||142.91.159.
-||sta.zone-telechargement.
-||acookie.*.gif?
-||sta.wawacity.
-||analytics.ticketmaster.
 ||cintent.streanplay.
-%2Fevent.gif%3F
-||df.infra.shopee.
+Banner468x60
 ||icast.
 ||gg.
 ||union.
@@ -640,6 +628,22 @@ Banner468x60
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||matt.mercadolibre.
+%2Frw%2Fbeacon_
+||sta.zone-telechargement.
+||sta.wawacity.
+||sta.extreme-down.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
+||stats.zone-annuaire.
+||onetrust.
+||sta.zone-telechargement.
+||acookie.*.gif?
+||sta.extreme-down.
 @@||tongji.*kuwo.cn^
 <p><pre>
 <title>
